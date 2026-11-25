@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build the Simple Science Around Us static site into docs/ (served by GitHub Pages)."""
-import json, html, shutil, datetime, re
+import json, html, shutil, datetime, re, hashlib
 from pathlib import Path
 
 ROOT = Path(__file__).parent
@@ -14,6 +14,7 @@ SOCIAL = [("YouTube", CHANNEL), ("TikTok", "https://www.tiktok.com/@simplescienc
           ("Instagram", "https://www.instagram.com/simplesciencearoundus/"),
           ("Facebook", "https://www.facebook.com/1515255428327941")]
 e = html.escape
+VER = hashlib.sha1(b"".join((ROOT / "assets" / n).read_bytes() for n in ("site.css", "site.js"))).hexdigest()[:8]
 assert all(s in {q["slug"] for q in QS} for s in TRY)
 
 # One simple line-icon per topic, used for topic chips and product tiles.
@@ -55,14 +56,14 @@ def page(title, desc, body, depth=0, cls="", og=None):
 <meta name="description" content="{e(desc)}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}">{ogimg}
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{up}assets/site.css">
+<link rel="stylesheet" href="{up}assets/site.css?v={VER}">
 </head><body class="{cls}">
 <header class="top"><a class="brand" href="{up}index.html">{LOGO}<span>Simple Science</span></a>
 <nav><a href="{up}index.html#watch">Watch</a><a href="{up}index.html#try">Try it</a><a class="shop" href="{up}kits.html">Shop kits</a></nav></header>
 <main>{body}</main>
 <footer class="foot"><div class="fs">{soc}</div>
 <p>Some links may be affiliate links: we may earn a small commission at no extra cost to you. <a href="{up}about.html">About &amp; disclosure</a></p></footer>
-<script src="{up}assets/site.js"></script>
+<script src="{up}assets/site.js?v={VER}"></script>
 </body></html>"""
 
 
