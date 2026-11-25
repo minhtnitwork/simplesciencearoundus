@@ -1,0 +1,68 @@
+{
+  "topics": {
+    "S01": {"slug": "water-in-the-air", "name": "Water in the Air", "blurb": "Humidity, fog, dew and drying clothes: the invisible water floating all around us.", "color": "#2f6fdf"},
+    "S02": {"slug": "hot-and-cold", "name": "Hot and Cold", "blurb": "Why some things feel colder, why soup cools when you blow, and how heat moves.", "color": "#e4572e"},
+    "S03": {"slug": "waters-hidden-tricks", "name": "Water's Hidden Tricks", "blurb": "Round drops, floating ice and bulging glasses: water behaves in surprising ways.", "color": "#0e9aa7"},
+    "S04": {"slug": "light-and-shadows", "name": "Light and Shadows", "blurb": "Mirrors, windows, bent straws and stretching shadows: how light travels and bounces.", "color": "#d99a00"},
+    "S05": {"slug": "the-science-of-sound", "name": "The Science of Sound", "blurb": "Strings, echoes, thunder and walls: how vibrations become the sounds we hear.", "color": "#8a4fd8"},
+    "S06": {"slug": "forces-and-simple-machines", "name": "Forces and Simple Machines", "blurb": "Wheels, levers, grip and balance: the pushes and pulls behind everyday tools.", "color": "#c2185b"}
+  },
+  "gear": {
+    "S01": [
+      {"name": "Digital thermometer-hygrometer", "why": "Shows temperature and relative humidity side by side, so you can watch the numbers change in a steamy bathroom or a dry room.", "age": "All ages with an adult"},
+      {"name": "Beginner weather station kit", "why": "Rain gauge, wind vane and humidity readings for a backyard or balcony weather diary.", "age": "8+"}
+    ],
+    "S02": [
+      {"name": "Kitchen probe thermometer", "why": "Measure how fast soup, tea or ice water changes temperature, with and without a lid.", "age": "Adult-handled for hot liquids"},
+      {"name": "Heat and energy science kit", "why": "Guided experiments on conduction and insulation, like the metal spoon versus the wooden spoon.", "age": "8+"}
+    ],
+    "S03": [
+      {"name": "Plastic pipettes and measuring beakers set", "why": "Drop water on wax paper, coins and leaves to see surface tension up close.", "age": "6+"},
+      {"name": "Density and liquids experiment kit", "why": "Layering liquids and floating objects, the same ideas behind floating ice and oil on water.", "age": "8+"}
+    ],
+    "S04": [
+      {"name": "Glass prism and magnifying glass set", "why": "Split sunlight into colours and see how curved glass bends light.", "age": "6+ with supervision"},
+      {"name": "Optics and light experiment kit", "why": "Mirrors, lenses and a small light source for reflection and refraction experiments.", "age": "8+"}
+    ],
+    "S05": [
+      {"name": "Tuning fork set", "why": "Feel vibrations, hear different pitches and see sound ripple water in a bowl.", "age": "6+"},
+      {"name": "Sound science kit", "why": "Build simple instruments and explore pitch, echoes and how sound travels.", "age": "8+"}
+    ],
+    "S06": [
+      {"name": "Simple machines building kit", "why": "Levers, pulleys, wheels and ramps you can build and test, from seesaws to wrenches.", "age": "8+"},
+      {"name": "Spring scale (force meter)", "why": "Measure how much pull it takes to slide a box with and without wheels.", "age": "8+"}
+    ]
+  },
+  "try": {
+    "why-does-a-cold-glass-get-wet-outside": {
+      "need": ["Two identical glasses", "Ice and water", "A dry paper towel"],
+      "steps": ["Dry the outside of both glasses with the paper towel.", "Fill one glass with ice water and the other with room-temperature water.", "Wait five minutes and run a finger down the outside of each glass."],
+      "see": "Only the cold glass gets wet. The water was never inside the glass wall: it came from water vapor in the room that cooled and turned into droplets on the cold surface.",
+      "safety": "Use plastic cups if young children are helping."
+    },
+    "why-does-a-straw-look-bent-in-water": {
+      "need": ["A clear glass", "Water", "A straw or pencil"],
+      "steps": ["Put the straw in the empty glass and look from the side.", "Fill the glass about two thirds with water.", "Look again from the side, then from above, then move your head slowly."],
+      "see": "In water the straw seems to break at the surface, and the break moves as you move. Light changes direction when it passes from water to air, so your eyes trace it back to the wrong place.",
+      "safety": "Use a plastic cup with small children."
+    },
+    "why-does-ice-float": {
+      "need": ["A small plastic cup", "Water", "A freezer", "A marker"],
+      "steps": ["Fill the cup about halfway with water and mark the water level on the outside.", "Freeze it overnight.", "Compare the ice level with your mark."],
+      "see": "The ice sits above the line. The same amount of water takes up more space as ice, so ice is less dense than liquid water, and that is why it floats.",
+      "safety": "Use plastic, not glass: freezing water can crack a glass container."
+    },
+    "why-does-a-rubber-band-sound-higher-when-tightened": {
+      "need": ["An open box or plastic tub", "A few rubber bands of different thickness"],
+      "steps": ["Stretch the rubber bands around the open box.", "Pluck each band and listen.", "Pull one band tighter with your finger and pluck it again."],
+      "see": "Tighter and thinner bands sound higher. They vibrate faster, and faster vibrations mean a higher pitch.",
+      "safety": "Keep faces away from stretched bands, they can snap."
+    },
+    "why-is-a-long-wrench-easier-to-turn": {
+      "need": ["A door that swings freely"],
+      "steps": ["Push the door open by pressing near the handle.", "Close it, then push with one finger right next to the hinges.", "Try a few spots in between."],
+      "see": "Near the hinges you have to push much harder. The farther from the turning point you push, the more turning effect you get, the same reason a long wrench beats a short one.",
+      "safety": "Keep fingers away from the hinge gap when the door closes."
+    }
+  }
+}

@@ -1,0 +1,2091 @@
+{
+ "playlists": {
+  "S01": "PLG-yqSYl-XYE",
+  "S02": "PLF7EMo42cSvg",
+  "S03": "PLb1wiL4jLvQw",
+  "S04": "PLDFRIx583je8",
+  "S05": "PLXITEQ4cMrJc",
+  "S06": "PLNG-jlEsnWz4"
+ },
+ "questions": [
+  {
+   "slug": "what-is-humidity",
+   "series": "S01",
+   "video_id": "lf5sPvQgIWA",
+   "published": "2026-11-16T14:30:00Z",
+   "question": "What is humidity?",
+   "title": "What is humidity, really? 💧",
+   "summary": "Humidity describes how much water vapor — water as an invisible gas — is mixed into the air. Warmer air can contain more vapor before some of it turns into droplets, and relative humidity compares how much vapor is there with the most the air could hold at that temperature. When it's high, sweat evaporates slowly and you feel sticky. Fog and clouds are tiny liquid droplets, not vapor.",
+   "sentences": [
+    {
+     "en": "On some days the air feels sticky, and a cold drink gets wet in seconds. That's humidity. But what is it?",
+     "es": "Algunos días el aire se siente pegajoso y una bebida fría se moja en segundos. Eso es la humedad. Pero ¿qué es?"
+    },
+    {
+     "en": "Humidity describes how much water vapor is mixed into the air.",
+     "es": "La humedad describe cuánto vapor de agua hay mezclado en el aire."
+    },
+    {
+     "en": "Water vapor is water as a gas. Its molecules are spread out and moving, so you can't see them.",
+     "es": "El vapor de agua es agua en forma de gas. Sus moléculas están separadas y en movimiento, así que no se ven."
+    },
+    {
+     "en": "Warmer air can contain more water vapor before some of it starts to turn into droplets.",
+     "es": "El aire más cálido puede contener más vapor antes de que parte se convierta en gotitas."
+    },
+    {
+     "en": "Relative humidity compares how much vapor is there with the most the air could hold at that temperature.",
+     "es": "La humedad relativa compara el vapor que hay con el máximo que admite el aire a esa temperatura."
+    },
+    {
+     "en": "When it's high, sweat evaporates slowly, so you feel sticky and warmer.",
+     "es": "Cuando es alta, el sudor se evapora despacio, así que te sientes pegajoso y con más calor."
+    },
+    {
+     "en": "Fog and clouds are different: they're made of tiny liquid droplets, not vapor.",
+     "es": "La niebla y las nubes son distintas: están hechas de gotitas líquidas, no de vapor."
+    },
+    {
+     "en": "So humidity is the invisible water vapor in the air, and how close the air is to its limit.",
+     "es": "Así que la humedad es el vapor de agua invisible del aire, y lo cerca que está el aire de su límite."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Met Office – Humidity",
+     "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/humidity"
+    },
+    {
+     "title": "US National Weather Service glossary – Humidity",
+     "url": "https://forecast.weather.gov/glossary.php?word=humidity"
+    },
+    {
+     "title": "USGS · Water-cycle glossary",
+     "url": "https://www.usgs.gov/glossary/glossary-water-cycle-terms"
+    },
+    {
+     "title": "US National Weather Service glossary – Fog",
+     "url": "https://forecast.weather.gov/glossary.php?word=fog"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-cold-glass-get-wet-outside",
+   "series": "S01",
+   "video_id": "0wIGJ3qoW1I",
+   "published": "2026-11-16T17:30:00Z",
+   "question": "Why does a cold glass get wet outside?",
+   "title": "Why does a cold glass get wet on the outside? 🥤",
+   "summary": "The glass isn't leaking — the water comes from the air. Air contains water vapor, an invisible gas. When moist air touches the cold glass it cools, and some of the vapor turns into tiny liquid droplets on the glass: condensation. The droplets grow, join and may run down. On a very dry day, or with a drink that isn't very cold, the glass may stay dry.",
+   "sentences": [
+    {
+     "en": "Pour an icy drink, and soon the outside of the glass is covered in drops. Is the glass leaking?",
+     "es": "Sirve una bebida helada y pronto el exterior del vaso se cubre de gotas. ¿Se está saliendo?"
+    },
+    {
+     "en": "No. That water comes from the air around the glass.",
+     "es": "No. Esa agua viene del aire que rodea el vaso."
+    },
+    {
+     "en": "Air contains water vapor, an invisible gas.",
+     "es": "El aire contiene vapor de agua, un gas invisible."
+    },
+    {
+     "en": "When moist air touches the cold glass, it cools down.",
+     "es": "Cuando el aire húmedo toca el vaso frío, se enfría."
+    },
+    {
+     "en": "Cooled enough, some of that vapor turns into tiny liquid droplets on the glass. This is condensation.",
+     "es": "Si se enfría lo suficiente, parte del vapor se convierte en gotitas en el vaso. Esto es condensación."
+    },
+    {
+     "en": "The droplets grow and join, and sometimes they run down the side.",
+     "es": "Las gotitas crecen, se juntan y a veces resbalan por el costado."
+    },
+    {
+     "en": "On a very dry day, or with a drink that isn't very cold, the glass may stay dry.",
+     "es": "En un día muy seco, o con una bebida no tan fría, el vaso puede quedar seco."
+    },
+    {
+     "en": "So a cold glass gets wet because it cools the moist air around it until some vapor condenses.",
+     "es": "Así que un vaso frío se moja porque enfría el aire húmedo de alrededor hasta que parte del vapor se condensa."
+    }
+   ],
+   "sources": [
+    {
+     "title": "USGS · Condensation",
+     "url": "https://www.usgs.gov/water-science-school/science/condensation-and-water-cycle"
+    },
+    {
+     "title": "ACS – Condensation Station",
+     "url": "https://www.acs.org/education/whatischemistry/adventures-in-chemistry/experiments/condenstation-station.html"
+    },
+    {
+     "title": "Met Office – Humidity",
+     "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/humidity"
+    }
+   ]
+  },
+  {
+   "slug": "why-do-puddles-disappear",
+   "series": "S01",
+   "video_id": "-Lfps2xNboE",
+   "published": "2026-11-16T20:30:00Z",
+   "question": "Why do puddles disappear?",
+   "title": "Where does a puddle go? ☀️",
+   "summary": "A puddle shrinks without ever boiling because its water evaporates: water molecules are always jiggling, and some at the surface move fast enough to break free and leave as invisible water vapor. That takes energy from the sun, the ground and the air, and warmth, wind and dry air speed it up. On soil some water also soaks in; on pavement most of it evaporates.",
+   "sentences": [
+    {
+     "en": "After the rain, a puddle slowly shrinks, even though it never boils. Where does the water go?",
+     "es": "Después de la lluvia, un charco se encoge poco a poco, aunque nunca hierve. ¿Adónde va el agua?"
+    },
+    {
+     "en": "It turns into water vapor and mixes into the air. This is called evaporation.",
+     "es": "Se convierte en vapor de agua y se mezcla con el aire. Esto se llama evaporación."
+    },
+    {
+     "en": "Water molecules are always jiggling, and some at the surface move fast enough to break free.",
+     "es": "Las moléculas de agua siempre se agitan, y algunas de la superficie se mueven lo bastante rápido para escapar."
+    },
+    {
+     "en": "They leave as an invisible gas, a few at a time, at everyday temperatures.",
+     "es": "Salen como gas invisible, unas pocas a la vez, a temperaturas normales."
+    },
+    {
+     "en": "Breaking free takes energy, which comes from the sun, the ground and the air.",
+     "es": "Escapar requiere energía, que viene del sol, del suelo y del aire."
+    },
+    {
+     "en": "Warmth, wind and dry air make it happen faster.",
+     "es": "El calor, el viento y el aire seco lo aceleran."
+    },
+    {
+     "en": "On soil, some water also soaks into the ground, but on pavement most of it evaporates.",
+     "es": "En la tierra, parte del agua también se filtra al suelo, pero en el pavimento casi toda se evapora."
+    },
+    {
+     "en": "So puddles disappear because their water slowly evaporates into the air.",
+     "es": "Así que los charcos desaparecen porque su agua se evapora poco a poco en el aire."
+    }
+   ],
+   "sources": [
+    {
+     "title": "USGS · Evaporation",
+     "url": "https://www.usgs.gov/water-science-school/science/evaporation-and-water-cycle?page=1"
+    },
+    {
+     "title": "University of Illinois · Will Cold Water Evaporate?",
+     "url": "https://van.physics.illinois.edu/ask/listing/16382"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-bathroom-mirror-fog-up",
+   "series": "S01",
+   "video_id": "if6__v_mcQI",
+   "published": "2026-11-16T23:30:00Z",
+   "question": "Why does a bathroom mirror fog up?",
+   "title": "Why does the bathroom mirror fog up? 🚿",
+   "summary": "A hot shower adds lots of water vapor to the air. The mirror is cooler than that warm, moist air, so when the vapor touches the glass some of it condenses into tiny droplets. Millions of droplets scatter light in all directions, so your reflection turns blurry and white. That white layer is liquid water — not steam you can see. A fan or a warmer mirror helps it stay clear.",
+   "sentences": [
+    {
+     "en": "After a hot shower, the bathroom mirror turns white and you can't see yourself. Why?",
+     "es": "Después de una ducha caliente, el espejo del baño se pone blanco y no te ves. ¿Por qué?"
+    },
+    {
+     "en": "The hot shower adds lots of water vapor to the air.",
+     "es": "La ducha caliente añade mucho vapor de agua al aire."
+    },
+    {
+     "en": "The mirror is cooler than that warm, moist air.",
+     "es": "El espejo está más frío que ese aire cálido y húmedo."
+    },
+    {
+     "en": "When the vapor touches the cool glass, some of it condenses into tiny droplets.",
+     "es": "Cuando el vapor toca el cristal frío, parte se condensa en gotitas diminutas."
+    },
+    {
+     "en": "Millions of droplets scatter light in all directions, so the reflection turns blurry and white.",
+     "es": "Millones de gotitas dispersan la luz en todas direcciones, así que el reflejo se vuelve borroso y blanco."
+    },
+    {
+     "en": "That white layer isn't steam you can see. It's liquid water on the glass.",
+     "es": "Esa capa blanca no es vapor visible. Es agua líquida sobre el cristal."
+    },
+    {
+     "en": "A fan that removes the moist air, or a warmer mirror, helps it stay clear.",
+     "es": "Un extractor que saque el aire húmedo, o un espejo más tibio, ayuda a que siga claro."
+    },
+    {
+     "en": "So a mirror fogs up because warm, moist air condenses into tiny droplets on the cooler glass.",
+     "es": "Así que un espejo se empaña porque el aire cálido y húmedo se condensa en gotitas sobre el cristal más frío."
+    }
+   ],
+   "sources": [
+    {
+     "title": "USGS · Condensation",
+     "url": "https://www.usgs.gov/water-science-school/science/condensation-and-water-cycle"
+    },
+    {
+     "title": "USGS · Water-cycle glossary",
+     "url": "https://www.usgs.gov/glossary/glossary-water-cycle-terms"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-ice-melt-in-your-hand",
+   "series": "S02",
+   "video_id": "Dqezl9zX7hU",
+   "published": "2026-11-17T01:00:00Z",
+   "question": "Why does ice melt in your hand?",
+   "title": "Why does ice melt in your hand? 🧊",
+   "summary": "Your hand is much warmer than the ice, and heat always flows from warmer to colder things. That energy shakes the water molecules loose from their fixed places, so the solid turns into liquid — the same water in a new form. Your hand feels cold because it's losing heat, not because cold flows in. While it melts, the ice stays at its melting point: the energy goes into changing state.",
+   "sentences": [
+    {
+     "en": "Hold an ice cube in your hand, and it starts to melt almost right away. Why?",
+     "es": "Sostén un cubito de hielo en la mano y empieza a derretirse casi enseguida. ¿Por qué?"
+    },
+    {
+     "en": "Your hand is much warmer than the ice.",
+     "es": "Tu mano está mucho más caliente que el hielo."
+    },
+    {
+     "en": "Heat always flows from warmer things to colder things, so energy moves from your hand into the ice.",
+     "es": "El calor siempre pasa de lo más caliente a lo más frío, así que la energía va de tu mano al hielo."
+    },
+    {
+     "en": "That energy shakes the water molecules loose from their fixed places in the ice.",
+     "es": "Esa energía suelta las moléculas de agua de sus lugares fijos en el hielo."
+    },
+    {
+     "en": "The solid turns into liquid. Nothing is destroyed; it's the same water in a new form.",
+     "es": "El sólido se vuelve líquido. Nada se destruye: es la misma agua en otra forma."
+    },
+    {
+     "en": "Your hand feels cold because it's losing heat, not because cold flows into it.",
+     "es": "Tu mano se siente fría porque pierde calor, no porque le entre frío."
+    },
+    {
+     "en": "While it melts, the ice stays at its melting point. The energy goes into changing its state.",
+     "es": "Mientras se derrite, el hielo se queda en su punto de fusión. La energía se usa en cambiar de estado."
+    },
+    {
+     "en": "So ice melts in your hand because heat from your warm skin flows into it.",
+     "es": "Así que el hielo se derrite en tu mano porque el calor de tu piel pasa a él."
+    }
+   ],
+   "sources": [
+    {
+     "title": "ACS · Heat, Temperature, and Conduction",
+     "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson1.html"
+    },
+    {
+     "title": "ACS · Changing State: Melting",
+     "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson5.html"
+    },
+    {
+     "title": "US DOE · Thermodynamics student guide",
+     "url": "https://www1.eere.energy.gov/education/pdfs/basics_thermodynamicsguidestudent.pdf"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-blowing-on-soup-cool-it",
+   "series": "S02",
+   "video_id": "HgCLbE2GnXw",
+   "published": "2026-11-17T02:30:00Z",
+   "question": "Why does blowing on soup cool it?",
+   "title": "Why does blowing on soup cool it? 🍲",
+   "summary": "Hot soup is always losing water from its surface as vapor, and evaporating water carries energy away. But moist air piles up right above the bowl and slows evaporation down. Blowing pushes that moist air away and brings in drier air, so more water can evaporate — and your breath is cooler than the hot soup, so it carries some heat away too.",
+   "sentences": [
+    {
+     "en": "Your soup is too hot, so you blow on it, and it cools faster. But your breath is warm. How does that work?",
+     "es": "La sopa está muy caliente, soplas y se enfría más rápido. Pero tu aliento es cálido. ¿Cómo funciona?"
+    },
+    {
+     "en": "Hot soup is always losing water from its surface as vapor.",
+     "es": "La sopa caliente siempre pierde agua por su superficie en forma de vapor."
+    },
+    {
+     "en": "Evaporating water carries energy away, and that cools the soup.",
+     "es": "El agua que se evapora se lleva energía, y eso enfría la sopa."
+    },
+    {
+     "en": "But moist air piles up right above the bowl, and that slows evaporation down.",
+     "es": "Pero el aire húmedo se acumula justo sobre el plato, y eso frena la evaporación."
+    },
+    {
+     "en": "Blowing pushes that moist air away and brings in drier air, so more water can evaporate.",
+     "es": "Soplar aparta ese aire húmedo y trae aire más seco, así que se evapora más agua."
+    },
+    {
+     "en": "Your breath is also cooler than the hot soup, so it carries some heat away too.",
+     "es": "Tu aliento también está más frío que la sopa caliente, así que también se lleva algo de calor."
+    },
+    {
+     "en": "So blowing cools soup by keeping evaporation going and carrying heat away.",
+     "es": "Así que soplar enfría la sopa porque mantiene la evaporación y se lleva calor."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Caltech · Feynman Lectures I.1",
+     "url": "https://www.feynmanlectures.caltech.edu/I_01.html"
+    },
+    {
+     "title": "University of Illinois · Wind and evaporation",
+     "url": "https://van.physics.illinois.edu/ask/listing/3538"
+    },
+    {
+     "title": "USGS · Evaporation",
+     "url": "https://www.usgs.gov/water-science-school/science/evaporation-and-water-cycle?page=1"
+    },
+    {
+     "title": "ACS · Heat, Temperature, and Conduction",
+     "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson1.html"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-lid-keep-food-warm",
+   "series": "S02",
+   "video_id": "D44Lao2wNAg",
+   "published": "2026-11-17T14:30:00Z",
+   "question": "Why does a lid keep food warm?",
+   "title": "Why does a lid keep food warm? 🥘",
+   "summary": "Hot food loses a lot of heat through its open surface: water evaporates and carries energy away, and warm air rises off and is replaced by cooler air. A lid traps a layer of moist air, so evaporation slows and drops fall back in, and it stops the warm air drifting away. A lid doesn't make heat, though — heat still escapes through the bowl, so the food cools eventually.",
+   "sentences": [
+    {
+     "en": "Two bowls of the same hot soup: one with a lid, one without. Minutes later, the covered one is warmer. Why?",
+     "es": "Dos platos de la misma sopa caliente: uno con tapa y otro sin ella. Minutos después, el tapado está más caliente. ¿Por qué?"
+    },
+    {
+     "en": "Hot food loses heat in several ways, and a big one is through its open surface.",
+     "es": "La comida caliente pierde calor de varias formas, y una importante es por su superficie abierta."
+    },
+    {
+     "en": "Water evaporates from the hot surface and carries lots of energy away.",
+     "es": "El agua se evapora de la superficie caliente y se lleva mucha energía."
+    },
+    {
+     "en": "Warm air also rises off the surface and is replaced by cooler air.",
+     "es": "Además, el aire caliente sube desde la superficie y lo reemplaza aire más frío."
+    },
+    {
+     "en": "A lid traps a layer of moist air, so evaporation slows and drops fall back in.",
+     "es": "Una tapa atrapa una capa de aire húmedo, así que la evaporación se frena y las gotas vuelven a caer."
+    },
+    {
+     "en": "It also stops the warm air from drifting away.",
+     "es": "También impide que el aire caliente se escape."
+    },
+    {
+     "en": "A lid doesn't make heat, and heat still escapes through the bowl, so the food cools eventually.",
+     "es": "Una tapa no produce calor, y el calor sigue escapando por el plato, así que al final la comida se enfría."
+    },
+    {
+     "en": "So a lid keeps food warm by slowing the heat lost from its surface.",
+     "es": "Así que una tapa mantiene la comida caliente porque frena el calor que se pierde por la superficie."
+    }
+   ],
+   "sources": [
+    {
+     "title": "US DOE · Cover Heated, Open Vessels",
+     "url": "https://www.energy.gov/sites/prod/files/2014/05/f16/steam19_vessels.pdf"
+    },
+    {
+     "title": "USGS · Evaporation",
+     "url": "https://www.usgs.gov/water-science-school/science/evaporation-and-water-cycle?page=1"
+    },
+    {
+     "title": "ACS · Heat, Temperature, and Conduction",
+     "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson1.html"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-wet-shirt-feel-cold",
+   "series": "S02",
+   "video_id": "5QbCXqanKs8",
+   "published": "2026-11-17T17:30:00Z",
+   "question": "Why does a wet shirt feel cold?",
+   "title": "Why does a wet shirt feel so cold? 👕",
+   "summary": "The water in a wet shirt slowly evaporates, and evaporating water needs energy — much of it comes from your warm skin. As heat leaves your skin, you feel cold. A breeze carries the moist air away so evaporation speeds up and you feel colder; very humid air slows it down. Once the shirt is dry, this cooling stops.",
+   "sentences": [
+    {
+     "en": "Climb out of a pool in a wet T-shirt, and you start to shiver, even on a warm day. Why does a wet shirt feel cold?",
+     "es": "Sal de la piscina con una camiseta mojada y empiezas a tiritar, aunque haga calor. ¿Por qué se siente fría?"
+    },
+    {
+     "en": "The water in the shirt is slowly evaporating into the air.",
+     "es": "El agua de la camiseta se va evaporando lentamente en el aire."
+    },
+    {
+     "en": "To evaporate, water needs energy, and it takes much of it from your warm skin.",
+     "es": "Para evaporarse, el agua necesita energía, y la toma en gran parte de tu piel cálida."
+    },
+    {
+     "en": "As heat leaves your skin, you feel cold.",
+     "es": "Cuando el calor sale de tu piel, sientes frío."
+    },
+    {
+     "en": "A breeze carries the moist air away, so evaporation speeds up and you feel even colder.",
+     "es": "La brisa se lleva el aire húmedo, así que la evaporación se acelera y sientes aún más frío."
+    },
+    {
+     "en": "In very humid air, evaporation slows, so the chill is weaker.",
+     "es": "Con aire muy húmedo, la evaporación es más lenta, así que el frío es menor."
+    },
+    {
+     "en": "Once the shirt is dry, this cooling stops.",
+     "es": "Cuando la camiseta se seca, este enfriamiento se detiene."
+    },
+    {
+     "en": "So a wet shirt feels cold because evaporating water carries heat away from your skin.",
+     "es": "Así que una camiseta mojada se siente fría porque el agua al evaporarse se lleva el calor de tu piel."
+    }
+   ],
+   "sources": [
+    {
+     "title": "USGS · Evaporation",
+     "url": "https://www.usgs.gov/water-science-school/science/evaporation-and-water-cycle?page=1"
+    },
+    {
+     "title": "University of Texas at Arlington · Why is water wet?",
+     "url": "https://www.uta.edu/news/news-releases/2026/04/27/why-is-water-wet"
+    },
+    {
+     "title": "ACS · Heat, Temperature, and Conduction",
+     "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson1.html"
+    },
+    {
+     "title": "University of Illinois · Wind and evaporation",
+     "url": "https://van.physics.illinois.edu/ask/listing/3538"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-metal-spoon-feel-colder-than-wood",
+   "series": "S02",
+   "video_id": "Zp5lMOCCeTk",
+   "published": "2026-11-17T20:30:00Z",
+   "question": "Why does a metal spoon feel colder than wood?",
+   "title": "Why does metal feel colder than wood? 🥄",
+   "summary": "A metal spoon and a wooden spoon in the same kitchen are at the same room temperature. Your fingers are warmer than both, so heat flows from your skin into each spoon. Metal conducts heat very well and pulls heat away quickly; wood conducts poorly, so heat leaves slowly. Your skin senses how fast it's losing heat — not the object's temperature.",
+   "sentences": [
+    {
+     "en": "A metal spoon and a wooden spoon sit in the same kitchen. Touch them, and the metal feels much colder. Is it?",
+     "es": "Una cuchara de metal y una de madera están en la misma cocina. Al tocarlas, el metal parece mucho más frío. ¿Lo está?"
+    },
+    {
+     "en": "No. They're both at room temperature.",
+     "es": "No. Las dos están a temperatura ambiente."
+    },
+    {
+     "en": "Your fingers are warmer than both, so heat flows from your skin into each spoon.",
+     "es": "Tus dedos están más calientes que ambas, así que el calor pasa de tu piel a cada cuchara."
+    },
+    {
+     "en": "Metal conducts heat very well, so it pulls heat away from your finger quickly.",
+     "es": "El metal conduce muy bien el calor, así que lo quita de tu dedo rápidamente."
+    },
+    {
+     "en": "Wood conducts heat poorly, so heat leaves your finger slowly.",
+     "es": "La madera conduce mal el calor, así que tu dedo lo pierde despacio."
+    },
+    {
+     "en": "Your skin senses how fast it's losing heat, not the temperature of the object.",
+     "es": "Tu piel percibe lo rápido que pierde calor, no la temperatura del objeto."
+    },
+    {
+     "en": "So metal feels colder because it carries heat away from your fingers faster than wood.",
+     "es": "Así que el metal se siente más frío porque se lleva el calor de tus dedos más rápido que la madera."
+    }
+   ],
+   "sources": [
+    {
+     "title": "University of Illinois · Metals and touch",
+     "url": "https://van.physics.illinois.edu/ask/listing/44029"
+    },
+    {
+     "title": "American Physical Society · Getting Warmer/Getting Colder",
+     "url": "https://www.aps.org/learning-resources/getting-warmer-colder"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-ice-cool-a-drink",
+   "series": "S02",
+   "video_id": "bIcdAgqHy1A",
+   "published": "2026-11-17T23:30:00Z",
+   "question": "Why does ice cool a drink?",
+   "title": "How does ice cool a drink? 🧊",
+   "summary": "It's not cold spreading out from the ice — it's heat moving the other way, from the warmer drink into the colder ice. First that energy warms the ice to its melting point; then it takes a lot more energy to melt the ice without making it warmer. All that energy comes from the drink, so the drink's temperature drops, and the cold meltwater mixes in too.",
+   "sentences": [
+    {
+     "en": "Drop ice into a warm drink, and the whole glass gets colder. How does the ice do that?",
+     "es": "Echa hielo en una bebida tibia y todo el vaso se enfría. ¿Cómo lo hace el hielo?"
+    },
+    {
+     "en": "It's not cold spreading out from the ice. It's heat moving the other way.",
+     "es": "No es frío que sale del hielo. Es calor que va en sentido contrario."
+    },
+    {
+     "en": "Heat flows from the warmer drink into the colder ice.",
+     "es": "El calor pasa de la bebida más tibia al hielo más frío."
+    },
+    {
+     "en": "First, that energy warms the ice up to its melting point.",
+     "es": "Primero, esa energía calienta el hielo hasta su punto de fusión."
+    },
+    {
+     "en": "Then it takes a lot more energy to melt the ice, without making it any warmer.",
+     "es": "Luego hace falta mucha más energía para derretirlo, sin que se caliente más."
+    },
+    {
+     "en": "All that energy comes from the drink, so the drink's temperature drops.",
+     "es": "Toda esa energía sale de la bebida, así que su temperatura baja."
+    },
+    {
+     "en": "The cold meltwater mixes in as well.",
+     "es": "El agua fría del deshielo también se mezcla."
+    },
+    {
+     "en": "So ice cools a drink by absorbing heat from it, especially while it melts.",
+     "es": "Así que el hielo enfría una bebida absorbiendo su calor, sobre todo mientras se derrite."
+    }
+   ],
+   "sources": [
+    {
+     "title": "ACS · Heat, Temperature, and Conduction",
+     "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson1.html"
+    },
+    {
+     "title": "ACS · Changing State: Melting",
+     "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson5.html"
+    },
+    {
+     "title": "US DOE · Thermodynamics student guide",
+     "url": "https://www1.eere.energy.gov/education/pdfs/basics_thermodynamicsguidestudent.pdf"
+    }
+   ]
+  },
+  {
+   "slug": "why-can-a-mug-handle-be-cooler-than-the-mug",
+   "series": "S02",
+   "video_id": "h5b0JHhN3Io",
+   "published": "2026-11-18T01:00:00Z",
+   "question": "Why can a mug handle be cooler than the mug?",
+   "title": "Why is a mug handle cooler than the mug? ☕",
+   "summary": "Hot tea touches the inside of the mug, so heat flows straight into the walls. The handle never touches the tea: heat has to travel to it through the mug along a long, narrow path, and along the way the handle loses heat to the air. Ceramic doesn't conduct heat very fast either. Given enough time — or in a microwave — the handle can still get hot, so be careful.",
+   "sentences": [
+    {
+     "en": "Pour hot tea into a mug. The sides get hot quickly, but the handle often stays cooler. Why?",
+     "es": "Sirve té caliente en una taza. Los lados se calientan rápido, pero el asa suele quedarse más fría. ¿Por qué?"
+    },
+    {
+     "en": "The hot tea touches the inside of the mug, so heat flows straight into the walls.",
+     "es": "El té caliente toca el interior de la taza, así que el calor pasa directo a las paredes."
+    },
+    {
+     "en": "The handle never touches the tea. Heat has to travel to it through the mug itself.",
+     "es": "El asa nunca toca el té. El calor tiene que llegar a ella a través de la propia taza."
+    },
+    {
+     "en": "That path is long and narrow, so heat arrives slowly.",
+     "es": "Ese camino es largo y estrecho, así que el calor llega despacio."
+    },
+    {
+     "en": "Along the way, the handle also loses heat to the surrounding air.",
+     "es": "Por el camino, el asa también pierde calor hacia el aire."
+    },
+    {
+     "en": "Ceramic doesn't conduct heat very fast, which helps too.",
+     "es": "La cerámica no conduce el calor muy rápido, y eso también ayuda."
+    },
+    {
+     "en": "Given enough time, or in a microwave, the handle can still get hot, so be careful.",
+     "es": "Con tiempo suficiente, o en el microondas, el asa puede calentarse, así que ten cuidado."
+    },
+    {
+     "en": "So a mug handle stays cooler because heat reaches it slowly and leaks away into the air.",
+     "es": "Así que el asa se mantiene más fría porque el calor le llega despacio y se escapa al aire."
+    }
+   ],
+   "sources": [
+    {
+     "title": "ACS · Heat, Temperature, and Conduction",
+     "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson1.html"
+    },
+    {
+     "title": "American Physical Society · Getting Warmer/Getting Colder",
+     "url": "https://www.aps.org/learning-resources/getting-warmer-colder"
+    }
+   ]
+  },
+  {
+   "slug": "why-do-clothes-dry-faster-in-the-wind",
+   "series": "S01",
+   "video_id": "JMZi3nlmsrU",
+   "published": "2026-11-18T02:30:00Z",
+   "question": "Why do clothes dry faster in the wind?",
+   "title": "Why do clothes dry faster in the wind? 🌬️",
+   "summary": "Clothes dry when water evaporates from the fabric. On a still day the air right next to the cloth fills up with water vapor, and that nearly saturated layer slows evaporation. Wind sweeps the moist air away and brings in drier air, so water keeps evaporating quickly and the clothes dry sooner. If the air is very humid, or it's raining, wind helps much less.",
+   "sentences": [
+    {
+     "en": "Hang wet clothes on a windy day, and they dry much faster than on a still day. Why does wind help?",
+     "es": "Tiende ropa mojada en un día de viento y se seca mucho más rápido que en un día tranquilo. ¿Por qué ayuda el viento?"
+    },
+    {
+     "en": "Clothes dry when water evaporates from the fabric into the air.",
+     "es": "La ropa se seca cuando el agua se evapora de la tela al aire."
+    },
+    {
+     "en": "On a still day, the air right next to the cloth fills up with water vapor.",
+     "es": "En un día sin viento, el aire junto a la tela se llena de vapor de agua."
+    },
+    {
+     "en": "That moist layer slows evaporation, because the air there is nearly saturated.",
+     "es": "Esa capa húmeda frena la evaporación, porque el aire allí está casi saturado."
+    },
+    {
+     "en": "Wind sweeps the moist air away and brings in drier air.",
+     "es": "El viento se lleva el aire húmedo y trae aire más seco."
+    },
+    {
+     "en": "So water keeps evaporating quickly, and the clothes dry sooner.",
+     "es": "Así el agua sigue evaporándose rápido y la ropa se seca antes."
+    },
+    {
+     "en": "If the air is very humid, or it's raining, wind helps much less.",
+     "es": "Si el aire está muy húmedo, o llueve, el viento ayuda mucho menos."
+    },
+    {
+     "en": "So wind dries clothes faster by carrying away the moist air around them.",
+     "es": "Así que el viento seca la ropa más rápido porque se lleva el aire húmedo que la rodea."
+    }
+   ],
+   "sources": [
+    {
+     "title": "University of Illinois · Wind and evaporation",
+     "url": "https://van.physics.illinois.edu/ask/listing/3538"
+    },
+    {
+     "title": "USGS · Evaporation",
+     "url": "https://www.usgs.gov/water-science-school/science/evaporation-and-water-cycle?page=1"
+    }
+   ]
+  },
+  {
+   "slug": "why-do-windows-get-wet-on-the-inside",
+   "series": "S01",
+   "video_id": "TZWzKsJDqyE",
+   "published": "2026-11-18T14:30:00Z",
+   "question": "Why do windows get wet on the inside?",
+   "title": "Why do windows get wet on the inside? 🪟",
+   "summary": "The water doesn't come from the rain — it comes from the air inside your home. Breathing, cooking and showers add water vapor to indoor air. When it's cold outside the glass gets cold, and warm, moist room air touching it cools down until some vapor condenses into tiny droplets that grow and join into drops that run down. Airing out the room or keeping the glass warmer reduces it.",
+   "sentences": [
+    {
+     "en": "On a cold morning, the inside of the window is covered in droplets. Did rain get in?",
+     "es": "En una mañana fría, el interior de la ventana está cubierto de gotas. ¿Entró la lluvia?"
+    },
+    {
+     "en": "No. The water comes from the air inside your home.",
+     "es": "No. El agua viene del aire de tu casa."
+    },
+    {
+     "en": "Breathing, cooking and showers all add water vapor to indoor air.",
+     "es": "Respirar, cocinar y ducharse añaden vapor de agua al aire de dentro."
+    },
+    {
+     "en": "When it's cold outside, the window glass gets cold too.",
+     "es": "Cuando hace frío fuera, el cristal de la ventana también se enfría."
+    },
+    {
+     "en": "Warm, moist room air touches the cold glass and cools down.",
+     "es": "El aire cálido y húmedo de la habitación toca el cristal frío y se enfría."
+    },
+    {
+     "en": "Some of its vapor condenses into tiny droplets, which grow and join into bigger drops that run down.",
+     "es": "Parte de su vapor se condensa en gotitas, que crecen y se juntan en gotas más grandes que resbalan."
+    },
+    {
+     "en": "Airing out the room, or keeping the glass warmer, reduces it.",
+     "es": "Ventilar la habitación, o mantener el cristal más tibio, lo reduce."
+    },
+    {
+     "en": "So windows get wet inside because moist indoor air condenses on the cold glass.",
+     "es": "Así que las ventanas se mojan por dentro porque el aire húmedo de casa se condensa en el cristal frío."
+    }
+   ],
+   "sources": [
+    {
+     "title": "USGS · Condensation",
+     "url": "https://www.usgs.gov/water-science-school/science/condensation-and-water-cycle"
+    },
+    {
+     "title": "USGS · Water-cycle glossary",
+     "url": "https://www.usgs.gov/glossary/glossary-water-cycle-terms"
+    },
+    {
+     "title": "Experimental condensation research · Nucleation and growth",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2631394/"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-your-breath-look-white-on-a-cold-day",
+   "series": "S01",
+   "video_id": "LsoonF5oEaQ",
+   "published": "2026-11-18T17:30:00Z",
+   "question": "Why does your breath look white on a cold day?",
+   "title": "Why can you see your breath when it's cold? 🥶",
+   "summary": "Your breath is warm and full of invisible water vapor. When it leaves your mouth it mixes with the cold air and cools quickly, and some of the vapor condenses into tiny liquid droplets. Those droplets scatter light, so you see a white puff — a tiny cloud. They soon mix with drier air and evaporate again. On a warm day the vapor doesn't cool enough, so your breath stays invisible.",
+   "sentences": [
+    {
+     "en": "On a cold day, every breath makes a little white cloud. Why can you see it?",
+     "es": "En un día frío, cada respiración forma una nubecita blanca. ¿Por qué se ve?"
+    },
+    {
+     "en": "Your breath is warm and full of invisible water vapor.",
+     "es": "Tu aliento es cálido y está lleno de vapor de agua invisible."
+    },
+    {
+     "en": "When it leaves your mouth, it mixes with the cold air and cools quickly.",
+     "es": "Al salir de tu boca, se mezcla con el aire frío y se enfría rápido."
+    },
+    {
+     "en": "Cooled enough, some of that vapor condenses into tiny liquid droplets.",
+     "es": "Si se enfría lo suficiente, parte de ese vapor se condensa en gotitas líquidas."
+    },
+    {
+     "en": "Those droplets scatter light, so you see a white puff, like a tiny cloud.",
+     "es": "Esas gotitas dispersan la luz, así que ves una bocanada blanca, como una nube diminuta."
+    },
+    {
+     "en": "Then they mix with drier air and evaporate again, so the cloud quickly fades.",
+     "es": "Luego se mezclan con aire más seco y se evaporan otra vez, así que la nube se desvanece rápido."
+    },
+    {
+     "en": "On a warm day the vapor doesn't cool enough, so your breath stays invisible.",
+     "es": "En un día cálido el vapor no se enfría lo suficiente, así que tu aliento no se ve."
+    },
+    {
+     "en": "So you see your breath on a cold day because its water vapor condenses into tiny droplets.",
+     "es": "Así que ves tu aliento en un día frío porque su vapor de agua se condensa en gotitas."
+    }
+   ],
+   "sources": [
+    {
+     "title": "University of Illinois · Seeing Breath",
+     "url": "https://van.physics.illinois.edu/ask/listing/1475"
+    },
+    {
+     "title": "USGS · Water-cycle glossary",
+     "url": "https://www.usgs.gov/glossary/glossary-water-cycle-terms"
+    }
+   ]
+  },
+  {
+   "slug": "why-do-water-drops-look-round",
+   "series": "S03",
+   "video_id": "zVu5k3MKehA",
+   "published": "2026-11-18T20:30:00Z",
+   "question": "Why do water drops look round?",
+   "title": "Why are water drops round? 💧",
+   "summary": "Water drops on a leaf look almost perfectly round. Why aren't they flat?\nWater molecules pull on each other. At the surface that pull points inward (surface tension), so the drop shrinks to the smallest surface it can — and for a set amount of water, that shape is a sphere. Gravity flattens bigger drops, so only small drops stay nearly round.",
+   "sentences": [
+    {
+     "en": "These water drops on a leaf look almost perfectly round. Why aren't they flat?",
+     "es": "Estas gotas de agua sobre una hoja se ven casi perfectamente redondas. ¿Por qué no son planas?"
+    },
+    {
+     "en": "Water pulls on itself, and a ball is the most compact shape it can make.",
+     "es": "El agua tira de sí misma, y una bola es la forma más compacta que puede tomar."
+    },
+    {
+     "en": "Water molecules attract each other. Inside a drop, each one is pulled evenly from all sides.",
+     "es": "Las moléculas de agua se atraen entre sí. Dentro de una gota, cada una recibe tirones iguales desde todos los lados."
+    },
+    {
+     "en": "But at the surface, there's no water above, so surface molecules are pulled inward.",
+     "es": "Pero en la superficie no hay agua encima, así que las moléculas de la superficie son atraídas hacia dentro."
+    },
+    {
+     "en": "This inward pull is called surface tension. It shrinks the surface to the smallest area it can, and for a set amount of water, that shape is a sphere.",
+     "es": "Ese tirón hacia dentro se llama tensión superficial. Reduce la superficie al área más pequeña posible, y para una cantidad fija de agua, esa forma es una esfera."
+    },
+    {
+     "en": "Gravity flattens bigger drops, so only small drops stay nearly round.",
+     "es": "La gravedad aplana las gotas más grandes, por eso solo las gotas pequeñas se mantienen casi redondas."
+    },
+    {
+     "en": "So a drop is round because water pulls itself into the smallest surface it can.",
+     "es": "Así que una gota es redonda porque el agua se recoge en la superficie más pequeña posible."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 11.8 – Cohesion and Adhesion in Liquids (LibreTexts)",
+     "url": "https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_(OpenStax)/11:_Fluid_Statics/11.08:_Cohesion_and_Adhesion_in_Liquids_-_Surface_Tension_and_Capillary_Action"
+    },
+    {
+     "title": "Britannica – Surface tension",
+     "url": "https://www.britannica.com/science/surface-tension"
+    },
+    {
+     "title": "USGS Water Science School – Raindrops are different shapes",
+     "url": "https://www.usgs.gov/water-science-school/science/are-raindrops-shaped-teardrops"
+    },
+    {
+     "title": "NASA image – Don Pettit with a ball of water on the ISS (2 Mar 2025)",
+     "url": "https://www.nasa.gov/image-detail/amf-iss072e742508"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-sponge-soak-up-water",
+   "series": "S03",
+   "video_id": "H9YwKtUPtLE",
+   "published": "2026-11-22T14:30:00Z",
+   "question": "Why does a sponge soak up water?",
+   "title": "How does a sponge soak up water? 🧽",
+   "summary": "A sponge is full of tiny connected holes. Water is attracted to the sponge material (adhesion) and creeps along each narrow wall, while water molecules pull on each other (cohesion) and drag more water behind. The air is pushed out. That's capillary action — and once the holes are full, the sponge can't take in more.",
+   "sentences": [
+    {
+     "en": "Touch a dry sponge to a puddle, and the water climbs up into it. How does it pull the water in?",
+     "es": "Toca un charco con una esponja seca y el agua sube por dentro. ¿Cómo la absorbe?"
+    },
+    {
+     "en": "A sponge is full of tiny connected holes, and water likes to cling to their walls.",
+     "es": "Una esponja está llena de agujeros diminutos y conectados, y el agua tiende a pegarse a sus paredes."
+    },
+    {
+     "en": "Water molecules are attracted to the sponge material, so they creep along each narrow wall.",
+     "es": "El agua se siente atraída por el material de la esponja, así que avanza por cada pared estrecha."
+    },
+    {
+     "en": "They also pull on each other, dragging more water along behind them.",
+     "es": "Además se atraen entre sí y arrastran más agua detrás."
+    },
+    {
+     "en": "As the water moves in, the air in the holes is pushed out.",
+     "es": "A medida que entra el agua, el aire de los agujeros sale."
+    },
+    {
+     "en": "This is called capillary action, and it works best in narrow spaces.",
+     "es": "Esto se llama capilaridad, y funciona mejor en espacios estrechos."
+    },
+    {
+     "en": "Once the holes are full, the sponge can't take in any more.",
+     "es": "Cuando los agujeros se llenan, la esponja ya no absorbe más."
+    },
+    {
+     "en": "So a sponge soaks up water because its tiny holes pull the water in along their walls.",
+     "es": "Así que una esponja absorbe agua porque sus agujeros diminutos la atraen por las paredes."
+    }
+   ],
+   "sources": [
+    {
+     "title": "USGS Water Science School – Capillary action and water",
+     "url": "https://www.usgs.gov/water-science-school/science/capillary-action-and-water"
+    },
+    {
+     "title": "OpenStax College Physics 2e 11.8 – Cohesion and adhesion, capillary action",
+     "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action"
+    }
+   ]
+  },
+  {
+   "slug": "why-can-a-paper-towel-lift-water",
+   "series": "S03",
+   "video_id": "iCSKoEm9FVQ",
+   "published": "2026-11-19T14:30:00Z",
+   "question": "Why can a paper towel lift water?",
+   "title": "Why does water climb a paper towel? 🧻",
+   "summary": "A paper towel is made of tangled fibers with tiny gaps between them. Water sticks to the fibers and creeps into each gap, and water molecules pull the water behind along. In such tiny spaces that's enough to lift water against gravity — capillary action. Gravity still wins at some height, so the water stops.",
+   "sentences": [
+    {
+     "en": "Dip just the corner of a paper towel in water, and the water climbs up the towel. Why does it go up?",
+     "es": "Moja solo la esquina de una toalla de papel y el agua sube por ella. ¿Por qué sube?"
+    },
+    {
+     "en": "A paper towel is made of tangled fibers with tiny gaps between them.",
+     "es": "Una toalla de papel está hecha de fibras enredadas con huecos diminutos entre ellas."
+    },
+    {
+     "en": "Water sticks to the fibers, so it creeps into each narrow gap.",
+     "es": "El agua se pega a las fibras, así que avanza por cada hueco estrecho."
+    },
+    {
+     "en": "Water molecules also pull on each other, so the water behind follows along.",
+     "es": "Las moléculas de agua también se atraen entre sí, así que el agua de atrás las sigue."
+    },
+    {
+     "en": "In such tiny spaces, these pulls are strong enough to lift water against gravity.",
+     "es": "En espacios tan pequeños, estas atracciones bastan para subir el agua contra la gravedad."
+    },
+    {
+     "en": "That's capillary action, and the narrower the gaps, the higher the water can climb.",
+     "es": "Eso es la capilaridad, y cuanto más estrechos son los huecos, más alto puede subir el agua."
+    },
+    {
+     "en": "But gravity still pulls down, so the water stops at some height.",
+     "es": "Pero la gravedad sigue tirando hacia abajo, así que el agua se detiene a cierta altura."
+    },
+    {
+     "en": "So a paper towel lifts water because its tiny gaps pull it up along the fibers.",
+     "es": "Así que una toalla de papel sube el agua porque sus huecos diminutos la arrastran por las fibras."
+    }
+   ],
+   "sources": [
+    {
+     "title": "USGS Water Science School – Capillary action and water",
+     "url": "https://www.usgs.gov/water-science-school/science/capillary-action-and-water"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-shadow-follow-you",
+   "series": "S04",
+   "video_id": "YyWNaMO0Iik",
+   "published": "2026-11-18T23:30:00Z",
+   "question": "Why does a shadow follow you?",
+   "title": "Why does your shadow follow you? 🚶",
+   "summary": "A shadow is not stuck to your feet — it's the patch of ground where light can't reach. Light travels in straight lines, your body blocks some of them, and when you move you block different lines, so the dark patch moves with you. Light bouncing off walls can make it paler.",
+   "sentences": [
+    {
+     "en": "Walk across a sunny floor, and your shadow moves with you, step for step. Why does it follow you?",
+     "es": "Camina por un suelo soleado y tu sombra se mueve contigo, paso a paso. ¿Por qué te sigue?"
+    },
+    {
+     "en": "A shadow isn't a thing stuck to your feet. It's a patch where light can't reach.",
+     "es": "Una sombra no es algo pegado a tus pies. Es una zona a la que la luz no llega."
+    },
+    {
+     "en": "Light travels in straight lines from the Sun or a lamp.",
+     "es": "La luz viaja en línea recta desde el Sol o una lámpara."
+    },
+    {
+     "en": "Your body blocks some of those lines, leaving a darker area on the ground behind you.",
+     "es": "Tu cuerpo bloquea algunas de esas líneas y deja una zona más oscura en el suelo detrás de ti."
+    },
+    {
+     "en": "When you move, you block different lines, so the dark patch moves too.",
+     "es": "Cuando te mueves, bloqueas otras líneas, así que la zona oscura también se mueve."
+    },
+    {
+     "en": "Light bouncing off walls can make it paler, but the blocked area stays darker.",
+     "es": "La luz que rebota en las paredes puede aclararla, pero la zona bloqueada sigue más oscura."
+    },
+    {
+     "en": "So your shadow follows you because you carry the thing that blocks the light: your body.",
+     "es": "Así que tu sombra te sigue porque llevas contigo lo que bloquea la luz: tu cuerpo."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e 25.1 – The ray aspect of light",
+     "url": "https://openstax.org/books/college-physics-2e/pages/25-1-the-ray-aspect-of-light"
+    }
+   ]
+  },
+  {
+   "slug": "why-do-shadows-get-longer",
+   "series": "S04",
+   "video_id": "grbWoLL_LG8",
+   "published": "2026-11-19T20:30:00Z",
+   "question": "Why do shadows get longer?",
+   "title": "Why do shadows get longer in the evening? 🌇",
+   "summary": "It's all about the Sun's angle. Light travels in straight lines and your body blocks some of them. When the Sun is high the light comes down steeply and the blocked patch is short; when the Sun is low the light skims in at a shallow angle and the patch stretches out. The Sun isn't closer — only its angle changes.",
+   "sentences": [
+    {
+     "en": "In the morning and evening, your shadow stretches far across the ground. Why does it get so long?",
+     "es": "Por la mañana y por la tarde, tu sombra se estira mucho por el suelo. ¿Por qué se hace tan larga?"
+    },
+    {
+     "en": "It all depends on how high the Sun is in the sky.",
+     "es": "Todo depende de lo alto que esté el Sol en el cielo."
+    },
+    {
+     "en": "Light travels in straight lines, and your body blocks some of them.",
+     "es": "La luz viaja en línea recta, y tu cuerpo bloquea algunas de esas líneas."
+    },
+    {
+     "en": "When the Sun is high, the light comes down steeply, so the blocked area is short.",
+     "es": "Cuando el Sol está alto, la luz baja casi vertical, así que la zona bloqueada es corta."
+    },
+    {
+     "en": "When the Sun is low, the light skims in at a shallow angle, and the blocked area stretches out.",
+     "es": "Cuando el Sol está bajo, la luz llega rasante, y la zona bloqueada se alarga."
+    },
+    {
+     "en": "The Sun isn't closer or bigger then. Only its angle has changed.",
+     "es": "El Sol no está más cerca ni es más grande. Solo ha cambiado su ángulo."
+    },
+    {
+     "en": "So shadows get longer when the Sun is low, because the light arrives at a flatter angle.",
+     "es": "Así que las sombras se alargan cuando el Sol está bajo, porque la luz llega más inclinada."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e 25.1 – The ray aspect of light",
+     "url": "https://openstax.org/books/college-physics-2e/pages/25-1-the-ray-aspect-of-light"
+    }
+   ]
+  },
+  {
+   "slug": "why-can-you-see-yourself-in-a-mirror",
+   "series": "S04",
+   "video_id": "tNBIYf_hG4Q",
+   "published": "2026-11-24T23:30:00Z",
+   "question": "Why can you see yourself in a mirror?",
+   "title": "How does a mirror show your face? 🪞",
+   "summary": "Light from a lamp hits your face and bounces off in all directions. Some reaches the mirror, which is so smooth that it reflects the light neatly — leaving at the same angle it arrived — back to your eyes. Your brain assumes light travels in straight lines, so you see your face behind the glass, where the light seems to come from.",
+   "sentences": [
+    {
+     "en": "Look into a mirror, and there you are, looking right back. How does that work?",
+     "es": "Mírate en un espejo y ahí estás, mirándote de vuelta. ¿Cómo funciona?"
+    },
+    {
+     "en": "Light from a lamp or a window hits your face and bounces off in all directions.",
+     "es": "La luz de una lámpara o de una ventana llega a tu cara y rebota en todas direcciones."
+    },
+    {
+     "en": "Some of that light travels to the mirror.",
+     "es": "Parte de esa luz viaja hasta el espejo."
+    },
+    {
+     "en": "A mirror is very smooth, so it reflects the light neatly, leaving at the same angle it arrived.",
+     "es": "Un espejo es muy liso, así que refleja la luz de forma ordenada: sale con el mismo ángulo con que llegó."
+    },
+    {
+     "en": "That reflected light travels back to your eyes.",
+     "es": "Esa luz reflejada vuelve hasta tus ojos."
+    },
+    {
+     "en": "Your brain assumes light travels in straight lines, so you see your face behind the glass.",
+     "es": "Tu cerebro supone que la luz viaja en línea recta, así que ves tu cara detrás del cristal."
+    },
+    {
+     "en": "Nothing is really there. It's just where the light seems to come from.",
+     "es": "En realidad allí no hay nada. Es solo de donde parece venir la luz."
+    },
+    {
+     "en": "Periscopes and car mirrors use this same neat bounce to show you what's around corners and behind you.",
+     "es": "Los periscopios y los espejos del auto usan este mismo rebote para mostrarte lo que hay tras una esquina o detrás de ti."
+    },
+    {
+     "en": "So you see yourself because a smooth mirror sends the light from your face straight back to your eyes.",
+     "es": "Así que te ves porque un espejo liso devuelve la luz de tu cara directamente a tus ojos."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax Physics – 16.1 Reflection",
+     "url": "https://openstax.org/books/physics/pages/16-1-reflection"
+    },
+    {
+     "title": "britannica.com",
+     "url": "https://www.britannica.com/technology/periscope"
+    }
+   ]
+  },
+  {
+   "slug": "why-can-you-see-through-a-window",
+   "series": "S04",
+   "video_id": "4hqrFUXgwfc",
+   "published": "2026-11-22T17:30:00Z",
+   "question": "Why can you see through a window?",
+   "title": "How can light pass through solid glass? 🪟",
+   "summary": "When light hits a material it can be absorbed, scattered or let through. Clear glass barely absorbs visible light, and it's smooth and even inside, so the light isn't scattered and the view stays sharp. A little still reflects (that's your reflection at night), and frosted glass scatters light, so the view turns blurry.",
+   "sentences": [
+    {
+     "en": "A window is solid, yet you can see the street right through it. How does light get through glass?",
+     "es": "Una ventana es sólida, pero ves la calle a través de ella. ¿Cómo atraviesa la luz el vidrio?"
+    },
+    {
+     "en": "When light hits a material, it can be absorbed, scattered, or allowed to pass.",
+     "es": "Cuando la luz llega a un material, puede ser absorbida, dispersada o dejada pasar."
+    },
+    {
+     "en": "In clear glass, the atoms don't absorb the colors of visible light, so most of it keeps going.",
+     "es": "En el vidrio transparente, los átomos no absorben los colores de la luz visible, así que casi toda sigue su camino."
+    },
+    {
+     "en": "Glass is also smooth and even inside, so the light isn't scattered in random directions.",
+     "es": "Además, el vidrio es liso y uniforme por dentro, así que la luz no se dispersa en direcciones al azar."
+    },
+    {
+     "en": "That keeps the picture sharp on the other side.",
+     "es": "Eso mantiene nítida la imagen del otro lado."
+    },
+    {
+     "en": "A little light still reflects, which is why you can see yourself in a window at night.",
+     "es": "Un poco de luz se refleja, y por eso de noche puedes verte en la ventana."
+    },
+    {
+     "en": "Frosted glass lets light through but scatters it, so the view turns blurry.",
+     "es": "El vidrio esmerilado deja pasar la luz pero la dispersa, así que la vista se ve borrosa."
+    },
+    {
+     "en": "So you can see through a window because clear glass lets visible light pass without absorbing or scattering much of it.",
+     "es": "Así que ves a través de una ventana porque el vidrio transparente deja pasar la luz visible sin absorberla ni dispersarla mucho."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax Microbiology – 2.1 The properties of light",
+     "url": "https://openstax.org/books/microbiology/pages/2-1-the-properties-of-light"
+    },
+    {
+     "title": "OpenStax Physics – 16.2 Refraction",
+     "url": "https://openstax.org/books/physics/pages/16-2-refraction"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-straw-look-bent-in-water",
+   "series": "S04",
+   "video_id": "trk2QFLwaT0",
+   "published": "2026-11-25T01:00:00Z",
+   "question": "Why does a straw look bent in water?",
+   "title": "Why does a straw look broken in water? 🥤",
+   "summary": "The straw is perfectly straight — the trick happens to the light. Light from the underwater part changes speed at the surface and turns to a new direction (refraction). Your eyes assume light travels in straight lines, so you see the underwater part higher and shifted from where it really is.",
+   "sentences": [
+    {
+     "en": "Put a straw in a glass of water and look from the side. It seems to snap at the surface. Is it really bent?",
+     "es": "Pon una pajita en un vaso de agua y mira de lado. Parece partirse en la superficie. ¿De verdad está doblada?"
+    },
+    {
+     "en": "The straw is perfectly straight. The trick happens to the light.",
+     "es": "La pajita está perfectamente recta. El truco le ocurre a la luz."
+    },
+    {
+     "en": "Light from the underwater part travels up through the water and out into the air.",
+     "es": "La luz de la parte sumergida sube por el agua y sale al aire."
+    },
+    {
+     "en": "At the surface it changes speed, and that turns it to a new direction. This is called refraction.",
+     "es": "En la superficie cambia de velocidad, y eso la desvía hacia otra dirección. Esto se llama refracción."
+    },
+    {
+     "en": "Your eyes assume the light came in a straight line.",
+     "es": "Tus ojos suponen que la luz llegó en línea recta."
+    },
+    {
+     "en": "So you see the underwater part higher and shifted from where it really is.",
+     "es": "Así que ves la parte sumergida más arriba y desplazada de donde realmente está."
+    },
+    {
+     "en": "Above the water the light doesn't cross a surface, so the top part looks normal.",
+     "es": "Por encima del agua la luz no cruza ninguna superficie, así que la parte de arriba se ve normal."
+    },
+    {
+     "en": "It also makes pools look shallower than they are, so always check the depth before you jump in.",
+     "es": "También hace que las piscinas parezcan menos profundas de lo que son, así que revisa la profundidad antes de saltar."
+    },
+    {
+     "en": "So a straw looks bent because light from it bends as it leaves the water.",
+     "es": "Así que una pajita parece doblada porque su luz se desvía al salir del agua."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax Physics – 16.2 Refraction",
+     "url": "https://openstax.org/books/physics/pages/16-2-refraction"
+    },
+    {
+     "title": "britannica.com",
+     "url": "https://www.britannica.com/science/refraction"
+    }
+   ]
+  },
+  {
+   "slug": "why-can-light-bounce-off-a-wall",
+   "series": "S04",
+   "video_id": "TWMQpKcJSt0",
+   "published": "2026-11-23T01:00:00Z",
+   "question": "Why can light bounce off a wall?",
+   "title": "How does light bounce off a wall? 💡",
+   "summary": "A wall looks flat, but up close it's rough and bumpy. Each tiny bump reflects light like a little mirror tilted a different way, so the light scatters in every direction — diffuse reflection. That's why a white wall lights up the room but doesn't show your reflection like a mirror. Dark walls absorb more of the light.",
+   "sentences": [
+    {
+     "en": "Shine a flashlight at a white wall, and the whole room gets brighter. How does light bounce off a wall?",
+     "es": "Apunta una linterna a una pared blanca y toda la habitación se ilumina. ¿Cómo rebota la luz en una pared?"
+    },
+    {
+     "en": "A wall looks flat, but up close its surface is rough and bumpy.",
+     "es": "Una pared parece plana, pero de cerca su superficie es rugosa y llena de bultos."
+    },
+    {
+     "en": "Each tiny bump reflects light like a little mirror tilted a different way.",
+     "es": "Cada bulto diminuto refleja la luz como un espejito inclinado hacia otro lado."
+    },
+    {
+     "en": "So the light scatters in every direction. This is called diffuse reflection.",
+     "es": "Así que la luz se dispersa en todas direcciones. Esto se llama reflexión difusa."
+    },
+    {
+     "en": "That's why a wall lights up the room but doesn't show your reflection like a mirror.",
+     "es": "Por eso una pared ilumina la habitación pero no muestra tu reflejo como un espejo."
+    },
+    {
+     "en": "A white wall reflects most of the light, while a dark wall absorbs more of it.",
+     "es": "Una pared blanca refleja casi toda la luz, mientras que una pared oscura absorbe más."
+    },
+    {
+     "en": "So light bounces off a wall because its rough surface scatters the light in all directions.",
+     "es": "Así que la luz rebota en una pared porque su superficie rugosa la dispersa en todas direcciones."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e 25.2 – The law of reflection",
+     "url": "https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-guitar-string-make-a-sound",
+   "series": "S05",
+   "video_id": "OeuJNxZHmuk",
+   "published": "2026-11-19T01:00:00Z",
+   "question": "Why does a guitar string make a sound?",
+   "title": "How does a guitar string make sound? 🎸",
+   "summary": "A plucked string swings back and forth very fast, but a thin string alone barely pushes the air. It shakes the bridge, and the bridge shakes the whole wooden body, which pushes on lots of air. Each push squeezes the air and each pull spreads it out — pressure ripples that travel to your ears. The air itself only jiggles in place.",
+   "sentences": [
+    {
+     "en": "Pluck a guitar string, and it sings. But how does a string make sound?",
+     "es": "Pulsa una cuerda de guitarra y suena. Pero ¿cómo produce sonido una cuerda?"
+    },
+    {
+     "en": "When you pluck it, the string swings back and forth very fast.",
+     "es": "Al pulsarla, la cuerda vibra de un lado a otro muy rápido."
+    },
+    {
+     "en": "A thin string alone barely pushes the air, so by itself it would sound quiet.",
+     "es": "Una cuerda delgada apenas empuja el aire, así que sola sonaría muy bajito."
+    },
+    {
+     "en": "But the string shakes the bridge, and the bridge shakes the whole wooden body.",
+     "es": "Pero la cuerda hace vibrar el puente, y el puente hace vibrar toda la caja de madera."
+    },
+    {
+     "en": "The big body pushes on lots of air, which makes the sound much louder.",
+     "es": "La caja grande empuja mucho aire, y eso hace el sonido mucho más fuerte."
+    },
+    {
+     "en": "Each push squeezes the air, and each pull spreads it out. These pressure ripples travel to your ears.",
+     "es": "Cada empuje comprime el aire y cada retroceso lo expande. Estas ondas de presión viajan hasta tus oídos."
+    },
+    {
+     "en": "The air doesn't fly to you. It just jiggles back and forth as the ripple passes.",
+     "es": "El aire no viaja hasta ti. Solo se mueve de un lado a otro cuando pasa la onda."
+    },
+    {
+     "en": "So a guitar string makes sound by vibrating, and the body passes that vibration to the air.",
+     "es": "Así que una cuerda de guitarra suena al vibrar, y la caja pasa esa vibración al aire."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax Physics – 14.1 Speed of sound, frequency and wavelength",
+     "url": "https://openstax.org/books/physics/pages/14-1-speed-of-sound-frequency-and-wavelength"
+    },
+    {
+     "title": "UNSW Physics – How a guitar works (construction)",
+     "url": "https://www.phys.unsw.edu.au/music/guitaracoustics/construction.html"
+    }
+   ]
+  },
+  {
+   "slug": "why-can-you-hear-an-echo",
+   "series": "S05",
+   "video_id": "02MEg0Ociag",
+   "published": "2026-11-22T20:30:00Z",
+   "question": "Why can you hear an echo?",
+   "title": "Where does an echo come from? 🏔️",
+   "summary": "Your shout is a sound ripple travelling through the air. When it hits a large, hard surface like a cliff, much of it bounces back, and the return trip takes time. If the cliff is far enough away, you hear the return separately — an echo. Close walls send it back so fast it blends with the original, and soft surfaces soak up more sound.",
+   "sentences": [
+    {
+     "en": "Shout toward a big cliff, and a moment later your own voice shouts back. Where does the echo come from?",
+     "es": "Grita hacia un gran acantilado y, un momento después, tu propia voz te responde. ¿De dónde sale el eco?"
+    },
+    {
+     "en": "Your shout is sound, a ripple that travels through the air.",
+     "es": "Tu grito es sonido, una onda que viaja por el aire."
+    },
+    {
+     "en": "When it hits a large, hard surface like a cliff, much of it bounces back.",
+     "es": "Cuando choca con una superficie grande y dura, como un acantilado, buena parte rebota."
+    },
+    {
+     "en": "The returning sound has to travel all the way back to you, and that takes time.",
+     "es": "El sonido que vuelve tiene que recorrer todo el camino de regreso, y eso lleva tiempo."
+    },
+    {
+     "en": "If the cliff is far enough away, you hear the return separately from your shout. That's an echo.",
+     "es": "Si el acantilado está bastante lejos, oyes el regreso separado de tu grito. Eso es el eco."
+    },
+    {
+     "en": "Close walls send the sound back so quickly that it blends with the original.",
+     "es": "Las paredes cercanas devuelven el sonido tan rápido que se mezcla con el original."
+    },
+    {
+     "en": "Soft surfaces like grass or curtains soak up more sound, so the echo is weaker.",
+     "es": "Las superficies blandas, como el césped o las cortinas, absorben más sonido, así que el eco es más débil."
+    },
+    {
+     "en": "So you hear an echo because sound bounces off a distant surface and comes back a moment later.",
+     "es": "Así que oyes un eco porque el sonido rebota en una superficie lejana y vuelve un momento después."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax Physics – 14.1 Speed of sound, frequency and wavelength",
+     "url": "https://openstax.org/books/physics/pages/14-1-speed-of-sound-frequency-and-wavelength"
+    },
+    {
+     "title": "OpenStax Introduction to Behavioral Neuroscience – 7.1 Acoustic cues and signals",
+     "url": "https://openstax.org/books/introduction-behavioral-neuroscience/pages/7-1-acoustic-cues-and-signals"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-rubber-band-sound-higher-when-tightened",
+   "series": "S05",
+   "video_id": "WotdLOO1UwI",
+   "published": "2026-11-20T17:30:00Z",
+   "question": "Why does a rubber band sound higher when tightened?",
+   "title": "Why does a tighter rubber band sound higher? 🎵",
+   "summary": "Pitch depends on how many times per second something vibrates — faster vibrations make a higher note. Pulling a rubber band tighter increases its tension, so it snaps back faster each time it's pulled aside and vibrates more times per second. For a fair test, keep the vibrating length the same and change only the tightness.",
+   "sentences": [
+    {
+     "en": "Pluck a loose rubber band, then stretch it tighter and pluck again. The note goes up. Why?",
+     "es": "Pulsa una goma elástica floja, luego estírala más y vuelve a pulsarla. La nota sube. ¿Por qué?"
+    },
+    {
+     "en": "The pitch of a sound depends on how many times per second something vibrates.",
+     "es": "El tono de un sonido depende de cuántas veces por segundo vibra algo."
+    },
+    {
+     "en": "Faster vibrations make a higher pitch.",
+     "es": "Vibrar más rápido da un tono más agudo."
+    },
+    {
+     "en": "Pulling the band tighter increases its tension.",
+     "es": "Estirar más la goma aumenta su tensión."
+    },
+    {
+     "en": "With more tension, the band snaps back faster each time it's pulled to the side.",
+     "es": "Con más tensión, la goma vuelve más rápido cada vez que se desvía hacia un lado."
+    },
+    {
+     "en": "So it vibrates more times every second, and you hear a higher note.",
+     "es": "Así vibra más veces cada segundo, y oyes una nota más aguda."
+    },
+    {
+     "en": "For a fair test, keep the vibrating part the same length and change only the tightness.",
+     "es": "Para una prueba justa, mantén igual la parte que vibra y cambia solo la tensión."
+    },
+    {
+     "en": "So a tighter rubber band sounds higher because the extra tension makes it vibrate faster.",
+     "es": "Así que una goma más tensa suena más aguda porque la tensión extra la hace vibrar más rápido."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax University Physics Vol. 1 – 16.3 Wave speed on a stretched string",
+     "url": "https://openstax.org/books/university-physics-volume-1/pages/16-3-wave-speed-on-a-stretched-string"
+    },
+    {
+     "title": "OpenStax College Physics 2e – 17.2 Speed of sound, frequency and wavelength",
+     "url": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength"
+    },
+    {
+     "title": "University of Iowa – Rubber band harp demonstration",
+     "url": "https://instructional-resources.physics.uiowa.edu/3d2060-rubber-band-harp"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-closed-door-make-sound-quieter",
+   "series": "S05",
+   "video_id": "QFuobmTbric",
+   "published": "2026-11-23T02:30:00Z",
+   "question": "Why does a closed door make sound quieter?",
+   "title": "Why does closing a door make it quieter? 🚪",
+   "summary": "With the door open, sound ripples travel straight through the air into your room. A closed door blocks that path: much of the sound bounces back, some is absorbed, and only a little gets through by making the door itself vibrate. Gaps let some sound sneak past. Heavier, well-sealed doors block more — but no ordinary door stops sound completely.",
+   "sentences": [
+    {
+     "en": "Close the door, and the noise from the next room suddenly gets much quieter. Why?",
+     "es": "Cierra la puerta y el ruido de la habitación de al lado de repente se oye mucho más bajo. ¿Por qué?"
+    },
+    {
+     "en": "With the door open, sound ripples travel straight through the air into your room.",
+     "es": "Con la puerta abierta, las ondas de sonido entran directamente por el aire a tu habitación."
+    },
+    {
+     "en": "A closed door blocks that open path.",
+     "es": "Una puerta cerrada bloquea ese camino abierto."
+    },
+    {
+     "en": "When sound hits the door, much of it bounces back, and some is soaked up and turned into a tiny bit of heat.",
+     "es": "Cuando el sonido choca con la puerta, buena parte rebota y otra parte se absorbe y se convierte en un poquito de calor."
+    },
+    {
+     "en": "Only a little gets through, by making the door itself vibrate.",
+     "es": "Solo un poco pasa, haciendo vibrar la propia puerta."
+    },
+    {
+     "en": "Gaps around the door let some sound sneak past.",
+     "es": "Las rendijas alrededor de la puerta dejan escapar algo de sonido."
+    },
+    {
+     "en": "Heavier, well-sealed doors block more, but no ordinary door stops sound completely.",
+     "es": "Las puertas pesadas y bien selladas bloquean más, pero ninguna lo detiene del todo."
+    },
+    {
+     "en": "So a closed door makes sound quieter because it reflects and absorbs most of it before it reaches you.",
+     "es": "Así que una puerta cerrada atenúa el sonido porque refleja y absorbe la mayor parte antes de que te llegue."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax Physics – 14.1 Speed of sound, frequency and wavelength",
+     "url": "https://openstax.org/books/physics/pages/14-1-speed-of-sound-frequency-and-wavelength"
+    },
+    {
+     "title": "Siemens Simcenter – What is sound transmission loss?",
+     "url": "https://community.sw.siemens.com/s/article/sound-transmission-loss"
+    }
+   ]
+  },
+  {
+   "slug": "why-is-it-easier-to-slide-a-box-on-wheels",
+   "series": "S06",
+   "video_id": "f6tcyd82H0w",
+   "published": "2026-11-22T23:30:00Z",
+   "question": "Why is it easier to slide a box on wheels?",
+   "title": "Why do wheels make heavy boxes easy to move? 🛞",
+   "summary": "A sliding box rubs against the floor: up close both surfaces are bumpy, and the bumps catch on each other — sliding friction. A wheel doesn't rub; it rolls, so each touching point lifts away instead of scraping. Rolling still loses a little energy because the wheel and floor squash slightly, but that rolling resistance is far smaller than sliding friction.",
+   "sentences": [
+    {
+     "en": "Try sliding a heavy box across the floor, and it fights you. Put it on wheels, and it rolls easily. Why?",
+     "es": "Intenta deslizar una caja pesada por el suelo y se resiste. Ponle ruedas y rueda con facilidad. ¿Por qué?"
+    },
+    {
+     "en": "When a box slides, its bottom rubs against the floor.",
+     "es": "Cuando una caja se desliza, su base roza contra el suelo."
+    },
+    {
+     "en": "Up close, both surfaces are bumpy, and the bumps catch and grip each other. That's sliding friction.",
+     "es": "De cerca, ambas superficies tienen bultos, y los bultos se enganchan entre sí. Eso es la fricción por deslizamiento."
+    },
+    {
+     "en": "A wheel doesn't rub. It rolls, so each touching point lifts away instead of scraping along.",
+     "es": "Una rueda no roza. Rueda, así que cada punto de contacto se levanta en lugar de arrastrarse."
+    },
+    {
+     "en": "Rolling still loses a little energy, because the wheel and the floor squash slightly.",
+     "es": "Rodar también pierde un poco de energía, porque la rueda y el suelo se aplastan ligeramente."
+    },
+    {
+     "en": "But this rolling resistance is far smaller than sliding friction, often a hundred times smaller or more.",
+     "es": "Pero esta resistencia a la rodadura es mucho menor que la fricción por deslizamiento, a menudo cien veces menor o más."
+    },
+    {
+     "en": "So a box is easier to move on wheels, because rolling avoids most of the rubbing.",
+     "es": "Así que una caja se mueve mejor con ruedas, porque al rodar se evita casi todo el roce."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e – 5.1 Friction",
+     "url": "https://openstax.org/books/college-physics-2e/pages/5-1-friction"
+    },
+    {
+     "title": "Britannica – Friction (rolling vs sliding)",
+     "url": "https://www.britannica.com/science/friction"
+    }
+   ]
+  },
+  {
+   "slug": "why-do-shoes-grip-the-ground",
+   "series": "S06",
+   "video_id": "WGJdsExn5Mw",
+   "published": "2026-11-22T02:30:00Z",
+   "question": "Why do shoes grip the ground?",
+   "title": "How do shoes grip the ground? 👟",
+   "summary": "Grip comes from friction, the force that resists one surface sliding over another. Up close, a rubber sole and the ground are both rough, and their bumps press and catch on each other. Soft rubber squishes into the bumps, and your weight presses it down for more grip. A layer of water or oil keeps the bumps from catching, so friction drops and you skid.",
+   "sentences": [
+    {
+     "en": "On a dry sidewalk your shoes don't slip, but on a wet, oily floor they skid. How do shoes grip the ground?",
+     "es": "En una acera seca tus zapatos no resbalan, pero en un suelo mojado y aceitoso patinan. ¿Cómo se agarran al suelo?"
+    },
+    {
+     "en": "Grip comes from friction, a force that resists one surface sliding over another.",
+     "es": "El agarre viene de la fricción, una fuerza que impide que una superficie resbale sobre otra."
+    },
+    {
+     "en": "Up close, the rubber sole and the ground are both rough, and their bumps press and catch on each other.",
+     "es": "De cerca, la suela de goma y el suelo son rugosos, y sus bultos se presionan y se enganchan entre sí."
+    },
+    {
+     "en": "Rubber is soft, so it squishes into the tiny bumps and holds on even better.",
+     "es": "La goma es blanda, así que se amolda a los bultos diminutos y se agarra aún mejor."
+    },
+    {
+     "en": "Your weight presses the sole down, which makes the grip stronger.",
+     "es": "Tu peso aprieta la suela contra el suelo, y eso hace el agarre más fuerte."
+    },
+    {
+     "en": "A layer of water or oil keeps the bumps from catching, so friction drops.",
+     "es": "Una capa de agua o aceite impide que los bultos se enganchen, así que la fricción baja."
+    },
+    {
+     "en": "So shoes grip because their rubber soles make strong friction with rough ground.",
+     "es": "Los zapatos se agarran porque la suela de goma crea mucha fricción con el suelo rugoso."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e – 5.1 Friction",
+     "url": "https://openstax.org/books/college-physics-2e/pages/5-1-friction"
+    },
+    {
+     "title": "Britannica – Friction",
+     "url": "https://www.britannica.com/science/friction"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-ball-eventually-stop-rolling",
+   "series": "S06",
+   "video_id": "UyY1vmnUzb4",
+   "published": "2026-11-19T02:30:00Z",
+   "question": "Why does a ball eventually stop rolling?",
+   "title": "Why does a rolling ball stop? ⚽",
+   "summary": "Something does push back: tiny forces from the floor and the air. Where the ball touches the floor, both squash a little and don't spring back perfectly, so a bit of energy turns into heat with every turn — rolling resistance. The ball also pushes air aside. On a soft carpet the squashing is bigger, so the ball stops sooner.",
+   "sentences": [
+    {
+     "en": "Roll a ball across the floor, and it slows down and stops, even though nothing seems to push back. Why?",
+     "es": "Haz rodar una pelota por el suelo: frena y se detiene, aunque nada parece empujarla. ¿Por qué?"
+    },
+    {
+     "en": "Something does push back: tiny forces from the floor and the air.",
+     "es": "Algo sí la frena: pequeñas fuerzas del suelo y del aire."
+    },
+    {
+     "en": "As the ball rolls, it and the floor squash a little where they touch.",
+     "es": "Al rodar, la pelota y el suelo se aplastan un poco donde se tocan."
+    },
+    {
+     "en": "They don't spring back perfectly, so a bit of energy turns into heat with every turn.",
+     "es": "No recuperan su forma del todo, así que en cada vuelta un poco de energía se convierte en calor."
+    },
+    {
+     "en": "This is called rolling resistance.",
+     "es": "Esto se llama resistencia a la rodadura."
+    },
+    {
+     "en": "The ball also has to push air out of its way, which slows it a little more.",
+     "es": "La pelota también tiene que apartar el aire, y eso la frena un poco más."
+    },
+    {
+     "en": "On a soft carpet the squashing is bigger, so the ball stops sooner than on a hard floor.",
+     "es": "En una alfombra blanda se aplasta más, así que la pelota se detiene antes que en un suelo duro."
+    },
+    {
+     "en": "So a rolling ball stops because rolling resistance and air drag slowly take away its motion.",
+     "es": "Así que la pelota se detiene porque la resistencia a la rodadura y el aire le quitan movimiento poco a poco."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Real World Physics Problems – Rolling resistance",
+     "url": "https://real-world-physics-problems.com/rolling-resistance.html"
+    },
+    {
+     "title": "Britannica – Friction (rolling friction)",
+     "url": "https://www.britannica.com/science/friction"
+    }
+   ]
+  },
+  {
+   "slug": "why-is-a-wide-base-harder-to-tip-over",
+   "series": "S06",
+   "video_id": "1ykP-06IOKk",
+   "published": "2026-11-23T14:30:00Z",
+   "question": "Why is a wide base harder to tip over?",
+   "title": "Why is a wide base harder to tip over? 🏺",
+   "summary": "Every object has a balance point — its center of gravity. It stays upright as long as that point is above its base. Tilt it and the center of gravity moves sideways; if it passes the edge of the base, the weight pulls the object over. A wide base means it has to move much farther first, and a low center of gravity helps too.",
+   "sentences": [
+    {
+     "en": "A tall, skinny vase tips over with a small bump, but a wide, low bowl just wobbles. Why?",
+     "es": "Un jarrón alto y delgado se cae con un pequeño golpe, pero un cuenco ancho y bajo solo se tambalea. ¿Por qué?"
+    },
+    {
+     "en": "Every object has a balance point, its center of gravity, where its weight seems to act.",
+     "es": "Todo objeto tiene un punto de equilibrio, su centro de gravedad, donde parece actuar su peso."
+    },
+    {
+     "en": "An object stays upright as long as that point is above its base.",
+     "es": "Un objeto se mantiene de pie mientras ese punto esté sobre su base."
+    },
+    {
+     "en": "When you tilt it, the center of gravity moves sideways.",
+     "es": "Cuando lo inclinas, el centro de gravedad se desplaza hacia un lado."
+    },
+    {
+     "en": "If it moves past the edge of the base, the weight pulls the object over.",
+     "es": "Si pasa el borde de la base, el peso hace caer el objeto."
+    },
+    {
+     "en": "A wide base means the center of gravity has to move much farther before it reaches the edge.",
+     "es": "Con una base ancha, el centro de gravedad tiene que moverse mucho más antes de llegar al borde."
+    },
+    {
+     "en": "A low center of gravity helps too, because tilting moves it sideways less.",
+     "es": "Un centro de gravedad bajo también ayuda, porque al inclinar se desplaza menos."
+    },
+    {
+     "en": "So a wide base is harder to tip over because the balance point must travel farther to get past the edge.",
+     "es": "Así que una base ancha es más difícil de volcar porque el punto de equilibrio debe recorrer más para pasar el borde."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e – 9.3 Stability",
+     "url": "https://openstax.org/books/college-physics-2e/pages/9-3-stability"
+    }
+   ]
+  },
+  {
+   "slug": "why-do-scissors-cut-so-well",
+   "series": "S06",
+   "video_id": "NBwyIuNGC_E",
+   "published": "2026-11-24T02:30:00Z",
+   "question": "Why do scissors cut so well?",
+   "title": "Why do scissors cut so well? ✂️",
+   "summary": "Scissors are two levers joined at a pivot. Your hand pushes the handles and the blades press on the paper. The sharp edges focus that push onto a very thin line, and the two blades slide past each other, shearing the paper from opposite sides. Cutting close to the pivot gives the biggest force, because the blade's lever arm is shortest there.",
+   "sentences": [
+    {
+     "en": "A small squeeze of your hand slices right through paper with scissors. Why do they cut so well?",
+     "es": "Un pequeño apretón de tu mano corta el papel con unas tijeras. ¿Por qué cortan tan bien?"
+    },
+    {
+     "en": "Scissors are two levers joined at a pivot.",
+     "es": "Las tijeras son dos palancas unidas por un eje."
+    },
+    {
+     "en": "Your hand pushes the handles, and the blades turn around the pivot and press on the paper.",
+     "es": "Tu mano empuja los mangos, y las hojas giran alrededor del eje y presionan el papel."
+    },
+    {
+     "en": "The edges are sharp, so that push is focused onto a very thin line.",
+     "es": "Los filos son afilados, así que ese empuje se concentra en una línea muy fina."
+    },
+    {
+     "en": "And the two blades slide past each other, shearing the paper apart from opposite sides.",
+     "es": "Y las dos hojas se cruzan, cizallando el papel desde lados opuestos."
+    },
+    {
+     "en": "Cutting close to the pivot gives the biggest force, because the blade's arm is shortest there.",
+     "es": "Cortar cerca del eje da la mayor fuerza, porque ahí el brazo de la hoja es más corto."
+    },
+    {
+     "en": "That's why thick cardboard cuts best near the pivot.",
+     "es": "Por eso el cartón grueso se corta mejor cerca del eje."
+    },
+    {
+     "en": "So scissors cut well because levers, sharp edges and sliding blades all work together.",
+     "es": "Las tijeras cortan bien porque palancas, filos y hojas que se cruzan trabajan juntos."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e – 9.5 Simple machines",
+     "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines"
+    },
+    {
+     "title": "Alloprof – The lever (scissors as a first-class lever)",
+     "url": "https://www.alloprof.qc.ca/en/students/vl/sciences/the-lever-s1431"
+    },
+    {
+     "title": "OpenStax College Physics 2e – 11.3 Pressure",
+     "url": "https://openstax.org/books/college-physics-2e/pages/11-3-pressure"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-sharp-knife-cut-more-easily",
+   "series": "S06",
+   "video_id": "qi4GpDI9kgI",
+   "published": "2026-11-24T14:30:00Z",
+   "question": "Why does a sharp knife cut more easily?",
+   "title": "Why does a sharp knife cut so easily? 🔪",
+   "summary": "It's not about pushing harder — it's where the push goes. Your force spreads over the part of the edge touching the food. A dull edge is wide, so the pressure is low and the tomato squashes. A sharp edge is incredibly thin, so the same force is packed into a tiny area and the pressure is huge — enough to break the skin. Pressure = force ÷ area.",
+   "sentences": [
+    {
+     "en": "A dull knife squashes a tomato, but a sharp one slides right in. Why does a sharp edge cut so easily?",
+     "es": "Un cuchillo sin filo aplasta un tomate, pero uno afilado entra sin esfuerzo. ¿Por qué corta tan fácil un filo?"
+    },
+    {
+     "en": "It's not about pushing harder. It's about where the push goes.",
+     "es": "No se trata de empujar más fuerte. Se trata de adónde va el empuje."
+    },
+    {
+     "en": "When you press down, your force spreads over the part of the edge touching the food.",
+     "es": "Cuando presionas, tu fuerza se reparte sobre la parte del filo que toca el alimento."
+    },
+    {
+     "en": "A dull edge is wide, so the force is spread out, and the pressure is low.",
+     "es": "Un filo romo es ancho, así que la fuerza se reparte y la presión es baja."
+    },
+    {
+     "en": "A sharp edge is incredibly thin, so the same force is packed into a tiny area.",
+     "es": "Un filo afilado es finísimo, así que la misma fuerza se concentra en un área diminuta."
+    },
+    {
+     "en": "That makes the pressure huge, enough to break through the tomato's skin.",
+     "es": "Eso hace que la presión sea enorme, suficiente para romper la piel del tomate."
+    },
+    {
+     "en": "This rule, pressure equals force divided by area, is also why needles are pointed.",
+     "es": "Esta regla, presión igual a fuerza entre área, explica también por qué las agujas son puntiagudas."
+    },
+    {
+     "en": "So a sharp knife cuts easily because its thin edge turns your push into high pressure.",
+     "es": "Así que un cuchillo afilado corta fácil porque su filo fino convierte tu empuje en mucha presión."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e – 11.3 Pressure",
+     "url": "https://openstax.org/books/college-physics-2e/pages/11-3-pressure"
+    }
+   ]
+  },
+  {
+   "slug": "why-is-a-long-wrench-easier-to-turn",
+   "series": "S06",
+   "video_id": "LbjOse_flVM",
+   "published": "2026-11-23T20:30:00Z",
+   "question": "Why is a long wrench easier to turn?",
+   "title": "Why is a long wrench easier to turn? 🔧",
+   "summary": "Turning depends on torque: how hard you push and how far from the center you push. Torque is force times distance, so with a longer wrench the same push makes more torque — double the length, double the turning effect. The trade-off: your hand moves through a bigger circle. It's the same reason a door opens most easily when you push far from its hinges.",
+   "sentences": [
+    {
+     "en": "A stuck bolt won't budge with a short wrench, but a longer one turns it easily. Why?",
+     "es": "Un perno atascado no se mueve con una llave corta, pero una más larga lo gira fácilmente. ¿Por qué?"
+    },
+    {
+     "en": "Turning depends on torque: how hard you push, and how far from the center you push.",
+     "es": "Girar depende del torque: de cuánto empujas y de a qué distancia del centro empujas."
+    },
+    {
+     "en": "Torque is the force times the distance from the bolt to your hand.",
+     "es": "El torque es la fuerza por la distancia del perno a tu mano."
+    },
+    {
+     "en": "With a longer wrench your hand is farther away, so the same push makes more torque.",
+     "es": "Con una llave más larga tu mano está más lejos, así que el mismo empuje produce más torque."
+    },
+    {
+     "en": "Double the length, and you double the turning effect.",
+     "es": "Si duplicas la longitud, duplicas el efecto de giro."
+    },
+    {
+     "en": "The trade-off is that your hand has to move through a bigger circle.",
+     "es": "A cambio, tu mano tiene que recorrer un círculo más grande."
+    },
+    {
+     "en": "It's the same reason a door is easiest to push open far from its hinges.",
+     "es": "Por la misma razón una puerta se abre más fácil empujando lejos de las bisagras."
+    },
+    {
+     "en": "So a long wrench is easier to turn because distance multiplies your push into more torque.",
+     "es": "Así que una llave larga gira más fácil porque la distancia multiplica tu empuje en más torque."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e – 9.2 Torque (the second condition for equilibrium)",
+     "url": "https://openstax.org/books/college-physics-2e/pages/9-2-the-second-condition-for-equilibrium"
+    },
+    {
+     "title": "OpenStax College Physics 2e – 9.5 Simple machines",
+     "url": "https://openstax.org/books/college-physics-2e/pages/9-5-simple-machines"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-dew-appear-on-grass-in-the-morning",
+   "series": "S01",
+   "video_id": "PQ4pzArbkB8",
+   "published": "2026-11-25T02:30:00Z",
+   "question": "Why does dew appear on grass in the morning?",
+   "title": "Where does morning dew come from? 🌿",
+   "summary": "The water in dew was already in the air as invisible vapor. On clear nights, grass loses heat to the open sky and gets colder than the air. Air touching the cold blades cools, can't hold as much vapor, and some condenses into drops. Cloudy nights act like a blanket, so there is often less dew.",
+   "sentences": [
+    {
+     "en": "On a clear morning, the grass is covered in tiny drops, even though it didn't rain. Where did they come from?",
+     "es": "En una mañana despejada, el césped está cubierto de gotitas, aunque no llovió. ¿De dónde salieron?"
+    },
+    {
+     "en": "The water was already there, as invisible vapor in the air.",
+     "es": "El agua ya estaba ahí, como vapor invisible en el aire."
+    },
+    {
+     "en": "On clear nights, grass loses heat to the open sky and gets colder than the air.",
+     "es": "En noches despejadas, el césped pierde calor hacia el cielo y se enfría más que el aire."
+    },
+    {
+     "en": "Air touching the cold blades cools down too.",
+     "es": "El aire que toca las hojas frías también se enfría."
+    },
+    {
+     "en": "Cool air can't hold as much vapor, so some of it condenses into drops.",
+     "es": "El aire frío no retiene tanto vapor, así que parte se condensa en gotas."
+    },
+    {
+     "en": "That's dew: water from the air, collected on cold surfaces.",
+     "es": "Eso es el rocío: agua del aire, reunida en superficies frías."
+    },
+    {
+     "en": "Cloudy nights act like a blanket, so the grass stays warmer and there's often less dew.",
+     "es": "Las noches nubladas son como una manta: el césped se enfría menos y suele haber menos rocío."
+    },
+    {
+     "en": "Some dry places use this trick to harvest drinking water, with cold panels that collect dew every night.",
+     "es": "Algunos lugares secos usan este truco para obtener agua potable, con paneles fríos que recogen rocío cada noche."
+    },
+    {
+     "en": "So morning dew is the air's own water, left on grass that got cold overnight.",
+     "es": "Así que el rocío es agua del propio aire, dejada sobre el césped que se enfrió de noche."
+    }
+   ],
+   "sources": [
+    {
+     "title": "US National Weather Service glossary – Dew",
+     "url": "https://forecast.weather.gov/glossary.php?word=dew"
+    },
+    {
+     "title": "US National Weather Service glossary – Humidity",
+     "url": "https://forecast.weather.gov/glossary.php?word=humidity"
+    },
+    {
+     "title": "en.wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Air_well_(condenser)"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-a-full-glass-of-water-bulge-above-the-rim",
+   "series": "S03",
+   "video_id": "llygJP6MWNg",
+   "published": "2026-11-23T23:30:00Z",
+   "question": "Why does a full glass of water bulge above the rim?",
+   "title": "Why can water rise above the rim of a glass? 🥛",
+   "summary": "Water molecules attract each other, and at the surface that pull makes a tight, stretchy skin. In a full glass the skin bends up into a dome instead of breaking, and each drop makes it taller. Eventually the weight wins, the skin breaks at the edge and water spills.",
+   "sentences": [
+    {
+     "en": "Fill a glass to the very top, then add a few more drops. The water rises above the rim without spilling. How?",
+     "es": "Llena un vaso hasta el borde y añade unas gotas más. El agua sube sobre el borde sin derramarse. ¿Cómo?"
+    },
+    {
+     "en": "Water molecules attract each other.",
+     "es": "Las moléculas de agua se atraen entre sí."
+    },
+    {
+     "en": "At the surface, that pull makes a tight, stretchy skin.",
+     "es": "En la superficie, esa atracción forma una piel tensa y elástica."
+    },
+    {
+     "en": "When the glass is full, the skin bends upward into a dome instead of breaking.",
+     "es": "Con el vaso lleno, la piel se curva hacia arriba en una cúpula en vez de romperse."
+    },
+    {
+     "en": "Each extra drop makes the dome a little taller.",
+     "es": "Cada gota extra hace la cúpula un poco más alta."
+    },
+    {
+     "en": "At some point, the weight of the water wins.",
+     "es": "En algún momento, gana el peso del agua."
+    },
+    {
+     "en": "The skin breaks at the edge, and water spills over the side.",
+     "es": "La piel se rompe en el borde y el agua se derrama."
+    },
+    {
+     "en": "So a full glass bulges because surface tension holds the water together, up to a limit.",
+     "es": "Así que el vaso lleno se abomba porque la tensión superficial une el agua, hasta un límite."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e – 11.8 Cohesion and adhesion in liquids: surface tension",
+     "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-water-bead-up-on-a-waxed-car",
+   "series": "S03",
+   "video_id": "65OUdTGac8U",
+   "published": "2026-11-24T20:30:00Z",
+   "question": "Why does water bead up on a waxed car?",
+   "title": "Why does water bead up on a waxed car? 🚗",
+   "summary": "Water molecules pull on each other (cohesion) and on the surface they touch (adhesion). Water barely sticks to oily wax, so it pulls itself into round beads. Old, dull paint attracts water more, so the water spreads into a flat film.",
+   "sentences": [
+    {
+     "en": "After rain, a freshly waxed car is covered in round beads of water. On an old car, water spreads flat. Why?",
+     "es": "Tras la lluvia, un auto recién encerado se cubre de gotas redondas. En uno viejo, el agua se esparce. ¿Por qué?"
+    },
+    {
+     "en": "Water molecules pull on each other. That's cohesion.",
+     "es": "Las moléculas de agua se atraen entre sí. Eso es cohesión."
+    },
+    {
+     "en": "They are also pulled toward the surface they touch. That's adhesion.",
+     "es": "También son atraídas por la superficie que tocan. Eso es adhesión."
+    },
+    {
+     "en": "Wax is oily, and water barely sticks to it.",
+     "es": "La cera es grasosa, y el agua casi no se pega a ella."
+    },
+    {
+     "en": "So the water pulls itself into tight, round beads.",
+     "es": "Así que el agua se recoge en gotas redondas y apretadas."
+    },
+    {
+     "en": "Old, dull paint attracts water more strongly.",
+     "es": "La pintura vieja y opaca atrae más al agua."
+    },
+    {
+     "en": "There, the water spreads out into a thin, flat layer.",
+     "es": "Ahí, el agua se extiende en una capa fina y plana."
+    },
+    {
+     "en": "Raincoats and some windshield coatings use the same idea, so rain beads up and rolls right off.",
+     "es": "Los impermeables y algunos tratamientos para parabrisas usan la misma idea: la lluvia forma gotas y resbala."
+    },
+    {
+     "en": "So water beads on wax because it sticks to itself more than to the wax.",
+     "es": "Así que el agua forma gotas en la cera porque se pega más a sí misma que a la cera."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e – 11.8 Cohesion and adhesion in liquids: surface tension",
+     "url": "https://openstax.org/books/college-physics-2e/pages/11-8-cohesion-and-adhesion-in-liquids-surface-tension-and-capillary-action"
+    },
+    {
+     "title": "en.wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Durable_water_repellent"
+    }
+   ]
+  },
+  {
+   "slug": "why-does-ice-float",
+   "series": "S03",
+   "video_id": "FBZ5g16s3Qc",
+   "published": "2026-11-24T17:30:00Z",
+   "question": "Why does ice float?",
+   "title": "Why does ice float? 🧊",
+   "summary": "Floating depends on density. In liquid water, molecules pack closely; when water freezes they lock into a pattern with open spaces, so ice takes up more room and is less dense than liquid water. That is why ice floats, forms on top of ponds, and why a frozen bottle can crack.",
+   "sentences": [
+    {
+     "en": "Most solids sink in their own liquid, but ice floats on water. Why is ice different?",
+     "es": "Casi todos los sólidos se hunden en su propio líquido, pero el hielo flota en el agua. ¿Por qué?"
+    },
+    {
+     "en": "Whether something floats depends on density: how much stuff is packed into a space.",
+     "es": "Flotar depende de la densidad: cuánta materia cabe en un espacio."
+    },
+    {
+     "en": "In liquid water, molecules tumble around and pack closely.",
+     "es": "En el agua líquida, las moléculas se mueven y se juntan mucho."
+    },
+    {
+     "en": "As water freezes, its molecules lock into a pattern with open spaces between them.",
+     "es": "Al congelarse, las moléculas forman un patrón con espacios abiertos."
+    },
+    {
+     "en": "So the same amount of water takes up more room as ice.",
+     "es": "Así, la misma agua ocupa más espacio como hielo."
+    },
+    {
+     "en": "That makes ice less dense than liquid water, so it floats.",
+     "es": "Eso hace al hielo menos denso que el agua, y por eso flota."
+    },
+    {
+     "en": "That's why ice forms on top of ponds, and why a frozen bottle can crack.",
+     "es": "Por eso el hielo se forma arriba en los estanques, y una botella congelada puede romperse."
+    },
+    {
+     "en": "So ice floats because freezing spreads water's molecules apart.",
+     "es": "Así que el hielo flota porque al congelarse sus moléculas se separan."
+    }
+   ],
+   "sources": [
+    {
+     "title": "USGS Water Science School – Water density",
+     "url": "https://www.usgs.gov/water-science-school/science/water-density"
+    }
+   ]
+  },
+  {
+   "slug": "why-do-we-see-lightning-before-we-hear-thunder",
+   "series": "S05",
+   "video_id": "ePQA5Ef-EKg",
+   "published": "2026-11-23T17:30:00Z",
+   "question": "Why do we see lightning before we hear thunder?",
+   "title": "Why do we see lightning before we hear thunder? ⚡",
+   "summary": "Lightning heats the air so fast that it bursts outward, making thunder. Light and sound start together, but light reaches you almost instantly while sound travels only about 340 meters per second in air. Count from flash to boom: about three seconds is roughly one kilometer.",
+   "sentences": [
+    {
+     "en": "In a storm, you see the lightning first and hear the thunder seconds later, even though they happen together. Why the gap?",
+     "es": "En una tormenta ves primero el rayo y oyes el trueno segundos después, aunque ocurren juntos. ¿Por qué?"
+    },
+    {
+     "en": "Lightning heats the air so fast that it bursts outward, making the boom of thunder.",
+     "es": "El rayo calienta el aire tan rápido que este se expande de golpe y produce el trueno."
+    },
+    {
+     "en": "Light and sound start out together.",
+     "es": "La luz y el sonido salen juntos."
+    },
+    {
+     "en": "Light is incredibly fast and reaches you almost instantly.",
+     "es": "La luz es rapidísima y te llega casi al instante."
+    },
+    {
+     "en": "Sound is much slower: about 340 meters every second in air.",
+     "es": "El sonido es mucho más lento: unos 340 metros por segundo en el aire."
+    },
+    {
+     "en": "So the sound lags behind, more and more the farther away the storm is.",
+     "es": "Así que el sonido se retrasa, más cuanto más lejos está la tormenta."
+    },
+    {
+     "en": "Count the seconds from flash to boom: about three seconds means roughly one kilometer away.",
+     "es": "Cuenta los segundos del destello al trueno: unos tres segundos son aproximadamente un kilómetro."
+    },
+    {
+     "en": "So we see lightning first because light outruns sound by a huge margin.",
+     "es": "Así que vemos el rayo primero porque la luz es muchísimo más rápida que el sonido."
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenStax College Physics 2e – 17.2 Speed of sound, frequency and wavelength",
+     "url": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength"
+    }
+   ]
+  }
+ ]
+}
